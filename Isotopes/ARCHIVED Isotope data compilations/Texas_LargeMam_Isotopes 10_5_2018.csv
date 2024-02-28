@@ -1,0 +1,720 @@
+Sample.ID,Sample.ID2,Size,Diet,Genus,Species,Genus.modif,Species.modif,Body size,Museum.ID,Site.Name,Latitude,Longitude ,Level.Age,Age,age,age estimate,Note.age,Age.Category,Extinction level,Survivor,Tray,Tray.ID,Weight,d15N,d13C,d13C.enamel,d180.enamel,X.N,X.C,C.N,commnets,analyzed.at.UNM.publication
+2598,2598,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,C12,0.584,7.2,-17,,,15.2,42.2,2.8,,x
+567382,567382,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G1,0.522,11.4,-15.3,,,16.3,44.6,2.7,,x
+567383,567383,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G2,0.583,10.1,-15.5,,,16.5,44.6,2.7,,x
+567385,567385,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G5,0.548,12.7,-17.5,,,14.6,44.7,3.1,,x
+567393,567393,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G6,0.571,11.9,-16,,,15.2,44.1,2.9,,x
+567394,567394,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G7,0.539,10.4,-16.2,,,15.2,43.6,2.9,,x
+567395,567395,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G8,0.59,10,-14,,,15.8,45.1,2.9,,x
+567396,567396,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G9,0.549,11.2,-16.7,,,15.3,45.7,3,,x
+567398,567398,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G10,0.523,11,-17.6,,,15.3,45.2,3,,x
+567403,567403,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G11,0.575,12.7,-18.2,,,15.1,46.3,3.1,,x
+567407,567407,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G12,0.576,11.3,-20.6,,,12.7,44.7,3.5,,x
+567408,567408,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G3,0.565,9.7,-17.9,,,16.4,44.5,2.7,,x
+567409,567409,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,G4,0.517,11.4,-17.5,,,16.2,44.5,2.8,,x
+567410,567410,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,H1,0.582,10.3,-16.1,,,16.3,44.2,2.7,,x
+567411,567411,Large,Carnivore,Canidae,modern,Canidae,modern,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,1,H2,0.552,10.2,-15.7,,,16.3,44.7,2.7,,x
+1018-13,1018-13,Large,Herbivore,Bison,bison,Bison,bison,579255,TMM,Sitter Ranch,,,,,,,,,,Survivor,5,C10,0.52,6.1,-9.2,,,13.6,40,2.9,,x
+1018-69,1018-69,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Sitter Ranch,,,no tag information associated with this specimen,,,,,,,,4,E4,0.58,6.5,-12.3,,,11.6,39.7,3.4,,x
+1018-70,1018-70,Large,Herbivore,Bison,bison,Bison,bison,579255,TMM,Sitter Ranch,,,,,,,,,,Survivor,4,C9,0.523,6.3,-8.2,,,14.7,41.6,2.8,,x
+1018-71,1018-71,Large,Herbivore,Bison,bison,Bison,bison,579255,TMM,Sitter Ranch,,,,,,,,,,Survivor,4,D9,0.595,6.3,-10.1,,,14.1,43.1,3.1,,x
+1018-72,1018-72,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Sitter Ranch,,,no tag information associated with this specimen,,,,,,,,4,D2,0.545,6.9,-9.7,,,14.6,43.2,3,,x
+1018-75,1018-75,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Sitter Ranch,,,no tag information associated with this specimen,,,,,,,,4,C8,0.558,7.5,-8.3,,,14,40.8,2.9,,x
+1273-1,1273-1,Large,Herbivore,Bison,latifrans,Bison,latifrans,900000,TMM,,,,,Pleistocene,,,,,,Extinct,5,D6,0.523,1,-27,,,2.1,18.6,9,,x
+1295-1,1295-1,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Clamp Cave,31.12,-98.75,,,,20000,,Pleistocene,Pre-Extinction,Survivor,1,F7,0.162,NA,NA,,,4,19.9,5,,x
+1295-13,1295-13,Small,Carnivore,Taxidea,taxus,Taxidea,,7108,TMM,Clamp Cave,31.12,-98.75,Pleistocene-Rancholabrean,,,20000,,Pleistocene,Pre-Extinction,Survivor,5,F8,0.568,1.6,-23.9,,,5.4,18.2,3.3,,x
+1295-2,1295-2,Small,Carnivore,Vulpes,sp.,Vulpes,sp.,4132,TMM,Clamp Cave,31.12,-98.75,,,,20000,,Pleistocene,Pre-Extinction,Survivor,1,F9,0.045,NA,NA,,,3,18,6,,x
+1295-8,1295-8,Small,Carnivore,Vulpes,sp.,Vulpes,sp.,4132,TMM,Clamp Cave,31.12,-98.75,,,,20000,,Pleistocene,Pre-Extinction,Survivor,1,F10,0.131,NA,NA,,,2.5,15.6,6.2,,x
+1295-9,1295-9,Small,Carnivore,Vulpes,sp.,Vulpes,sp.,4132,TMM,Clamp Cave,31.12,-98.75,,,,20000,,Pleistocene,Pre-Extinction,Survivor,1,F11,0.599,3.2,-23.9,,,4.2,18.2,4.4,,x
+220-27,220-27,Large,Carnivore,Canis,sp.,Canis,sp.,37000,TMM,Jess Cox Ranch,,,,,,5000,,Holocene,Post-Extinction,Survivor,1,B7,0.461,10.5,-17.8,,,15.5,43.6,2.8,,x
+220-36,220-36,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Jess Cox Ranch,,,,,,5000,,Holocene,Post-Extinction,Survivor,1,D11,0.577,8.4,-16.4,,,13.4,39.7,3,,x
+30697-94,30697-94,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Ingleside,27.87,-97.2,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,5,D5,0.564,4.4,-26.4,,,4.5,35.4,7.8,,x
+30967-106,30967-106,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Ingleside,27.87,-97.2,Late Pleistocene (Pit #1),Pleistocene,,30000,,Pleistocene,Pre-Extinction,Survivor,5,B12,0.522,NA,NA,,,bdl,3.1,na,,x
+30967-1230,30967-1230,Large,Herbivore,Bison,antiguus,Bison,antiguus,579255,TMM,Ingleside,27.87,-97.2,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,5,C7,0.511,NA,NA,,,bdl,2.5,na,,x
+30967-1595,30967-1595,Large,Herbivore,Camelops,,Camelops,sp.,1100000,TMM,Ingleside,27.87,-97.2,Late Pleistocene (Pit #1),Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,5,B8,0.544,NA,-24.9,,,1.7,9.4,5.4,,x
+30967-1599,30967-1599,Large,Herbivore,Camelops,,Camelops,sp.,1100000,TMM,Ingleside,27.87,-97.2,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,5,D9,0.578,NA,-27.3,,,0.4,23.6,53.4,,x
+30967-172,30967-172,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Ingleside,27.87,-97.2,Late Pleistocene (Pit #1),,,30000,,Pleistocene,Pre-Extinction,Extinct,5,F2,0.541,NA,-24.9,,,1.4,8.4,5.8,,x
+30967-172,30967-172,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Ingleside,27.87,-97.2,"Rancholabrean, Pleistocene ",,,30000,,Pleistocene,Pre-Extinction,Extinct,6,A7,0.525,NA,NA,,,bdl,2.5,NA,,x
+30967-1778,30967-1778,Large,Herbivore,Paleolama,mirifica,Paleolama,mirifica,223000,TMM,Ingleside,27.87,-97.2,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,5,B10,0.568,NA,NA,,,bdl,1.8,na,,x
+30967-224,30967-224,Large,Herbivore,Equus,fraternus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.6,-0.8,,,,2.9,,NA
+30967-395,30967-395,Large,Herbivore,Mammut,sp.,Mammut,sp.,7800000,TMM,Ingleside,27.87,-97.2,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-17.4,-10.6,,,,2.9,,NA
+30967-808,30967-808,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.7,-0.9,,,,2.9,,NA
+30967-874,30967-874,Large,Herbivore,Paleolama,mirifica,Paleolama,mirifica,223000,TMM,Ingleside,27.87,-97.2,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Extinct,5,B11,0.52,NA,-27.2,,,bdl,14.6,na,,x
+40449-127,40449-127,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Levi Shelter,30.36,-98.1,"Toomey says 10-7 (14C) or 11,555 to 7,845",,,11500,,Holocene,Pre-Extinction,Survivor,5,D11,0.549,1.1,-24,,,4.2,16.9,4,,x
+40449-129,40449-129,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Levi Shelter,30.36,-98.1,"Toomey says 10-7 (14C) or 11,555 to 7,854",,,11500,,Holocene,Pre-Extinction,Survivor,5,H7,0.542,-1.1,-24.3,,,3.3,14.4,4.3,,x
+40449-175,40449-175,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Levi Shelter,30.36,-98.1,,,,11500,,Holocene,Pre-Extinction,Extinct,1,D8,0.216,7.1,-19.7,,,6.9,22.6,3.3,,x
+40450-1603,40450-1603,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Cave Without A Name,29.88,-98.62,N/A,,,13000,,Pleistocene,Pre-Extinction,Survivor,6,B5,0.56,9.7,-15.1,,,8.4,25.6,3.1,,x
+40450-1604,40450-1604,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Cave Without A Name,29.88,-98.62,Pleistocene (disturbed),,,13000,,Pleistocene,Pre-Extinction,Survivor,4,F4,0.549,6.2,-18.1,,,15.8,45.3,2.9,,x
+40450-1607,40450-1607,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Cave Without A Name,29.88,-98.62,Pleistocene,,,13000,,Pleistocene,Pre-Extinction,Survivor,6,B3,0.524,6.3,-18.2,,,13.1,39.1,3,,x
+40450-1608,40450-1608,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Cave Without A Name,29.88,-98.62,N/A,,,13000,,Pleistocene,Pre-Extinction,Survivor,5,G9,0.508,8.1,-17.2,,,13.2,39.4,3,,x
+40450-1609,40450-1609,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Cave Without A Name,29.88,-98.62,Late Pleistocene,,,13000,,Pleistocene,Pre-Extinction,Survivor,5,G10,0.528,9.1,-15.6,,,12,35.8,3,,x
+40450-1619,40450-1619,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Cave Without A Name,29.88,-98.62,Late Pleistocene,Terminal.Pleistocene,13000,13000,assigned 13ka,Pleistocene,Pre-Extinction,Extinct,5,D4,0.526,10.2,-14.9,,,14.3,42.9,3,,x
+40450-2552,40450-2552,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Cave Without A Name,29.88,-98.62,Late Pleistocene,,,13000,,Pleistocene,Pre-Extinction,Extinct,5,F5,0.543,9.6,-11.4,,,7.6,25.4,3.3,,x
+40450-2554,40450-2554,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Cave Without A Name,29.88,-98.62,Late Pleistocene,Terminal.Pleistocene,13000,13000,assigned 13ka,Pleistocene,Pre-Extinction,Extinct,5,B2,0.535,9.1,-9.9,,,10.6,32.2,3,,x
+40450-2560,40450-2560,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Cave Without A Name,29.88,-98.62,Late Pleistocene,Terminal.Pleistocene,13000,13000,assigned 13ka,Pleistocene,Pre-Extinction,Extinct,5,B1,0.591,8.9,-14.1,,,4.6,13.8,3,,x
+40450-345,40450-345,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Cave Without A Name,29.88,-98.62,Late Pleistocene (bottom of dump),,,13000,,Pleistocene,Pre-Extinction,Survivor,6,A1,0.508,9,-14.7,,,11.1,33.5,3,,x
+40450-437,40450-437,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Cave Without A Name,29.88,-98.62,Late Pleistocene,Terminal.Pleistocene,13000,13000,assigned 13ka,Pleistocene,Pre-Extinction,Extinct,5,D7,0.526,9.3,-10.8,,,5.7,17.4,3.1,,x
+40450-584,40450-584,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Cave Without A Name,29.88,-98.62,Pleistocene,,,13000,,Pleistocene,Pre-Extinction,Survivor,4,C2,0.556,7.4,-19.5,,,14,40.8,2.9,,x
+40450-617,40450-617,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Cave Without A Name,29.88,-98.62,,,,13000,,Pleistocene,Pre-Extinction,Survivor,5,E10,0.536,5.7,-17.8,,,12.7,37.4,2.9,,x
+40451-101,40451-101,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Wunderlich Site,29.92,-98.35,N/A,,,4600,,Holocene,Post-Extinction,Survivor,4,C4,0.582,7.8,-14,,,15.1,43.5,2.9,,x
+40451-102,40451-102,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Wunderlich Site,29.92,-98.35,Mid-Holocene,Holocene,4600,4600,,Holocene,Post-Extinction,Survivor,5,A5,0.523,5.5,-19.8,,,15.3,46.2,3,,x
+40451-125,40451-125,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Wunderlich Site,29.92,-98.35,Mid-Holocene,Holocene,4600,4600,,Holocene,Post-Extinction,Survivor,5,C9,0.517,5.1,-21,,,12,35.6,3,,x
+40541-110,40541-110,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Starveout Cave,,,,,,,,,,Survivor,5,E7,0.58,5.8,-18.9,,,15.5,43.3,2.8,,x
+40541-112,40541-112,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Starveout Cave,,,,,,,,,,Survivor,4,A8,0.594,5.2,-18.1,,,15.8,43.6,2.8,,x
+40541-1232,40541-1232,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Starveout Cave,,,,,,,,,,Survivor,4,D4,0.561,5,-19.1,,,15.9,44.8,2.8,,x
+40541-1233,40541-1233,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Starveout Cave,,,,,,,,,,Survivor,4,C6,0.516,7.9,-19.5,,,15.9,44.4,2.8,,x
+40673-52,40673-52,Large,Carnivore,Panthera,onca,Panthera,onca,100000,TMM,Laubach 1,30.6166,-97.6166,"Core Hole Cave. Second Level of Cave. Pleistocene, Wisconson. ",,,,,,,Survivor,6,A2,0.52,NA,NA,,,bdl,2.5,NA,,x
+40685-1,40685-1,Large,Herbivore,Tayassu,tajacu,Tayassu,tajacu,21267,TMM,Zesch Cave,30.75,-99.25,?,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Survivor,5,D8,0.525,7.3,-16.5,,,13.9,41.3,3,,x
+40685-773,40685-773,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Zesch Cave,30.75,-99.25,Pleistocene,,,30000,,Pleistocene,Pre-Extinction,Survivor,1,E4,0.559,NA,NA,,,bdl,1.3,na,,x
+40685-UNM001,40685-UNM001,Large,Herbivore,Tayassu,tajacu,Tayassu,tajacu,21267,TMM,Zesch Cave,30.75,-99.25,,Pleistocene,,30000,,Pleistocene,Pre-Extinction,Survivor,5,B9,0.569,7,-15.8,,,12.2,40.8,3.3,,x
+41229-1001,41229-1001,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,NA,Holocene,6233.5,6233.5,,Holocene,Post-Extinction,Survivor,1,H3,0.518,7.3,-17.2,,,16.2,44.7,2.8,,x
+41229-10262,41229-10262,Small,Carnivore,Mustela,,Mustela,sp.,2085,TMM,Hall's Cave,30.13,-99.54,240-245,,,16273,,Pleistocene,Pre-Extinction,,5,C11,0.573,12.6,-16.1,,,15.8,44.4,2.8,,x
+41229-10265,41229-10265,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,240-245,,,16273,,Pleistocene,Pre-Extinction,Survivor,2,F10,0.59,8.6,-18.2,,,12.6,36.9,2.9,,x
+41229-10278,41229-10278,Small,Carnivore,Urocyon or Vulpes,,Urocyon or Vulpes,,4132,TMM,Hall's Cave,30.13,-99.54,250-255,,,16509,,Pleistocene,Pre-Extinction,Survivor,1,E9,0.584,9.1,-16,,,13.3,35.9,2.7,,x
+41229-10351,41229-10351,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,025-030,,,2446,,Holocene,Post-Extinction,Survivor,2,A12,0.547,6,-15.8,,,15.3,44.5,2.9,,x
+41229-10357,41229-10357,Large,Carnivore,Canis,familiaris,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,130-135,,,9363,,Holocene,Post-Extinction,Survivor,1,D2,0.69,13.4,-15,,,15.6,43.7,2.8,,x
+41229-10469,41229-10469,Small,Carnivore,Urocyon or Vulpes,,Urocyon or Vulpes,,4132,TMM,Hall's Cave,30.13,-99.54,155-160,,,11010,,Holocene,Pre-Extinction,Survivor,1,C11,0.523,9.9,-15.6,,,14.8,42,2.8,,x
+41229-1055,41229-1055,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,Pit 1,Holocene,4916,4916,,Holocene,Post-Extinction,Survivor,2,A1,0.285,4.5,-20,,,16.7,45.7,2.7,,x
+41229-10778,41229-10778,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,1,A7,0.56,10.5,-17,,,15.9,43.6,2.7,,x
+41229-10795,41229-10795,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Hall's Cave,30.13,-99.54,,Pleistocene,14977,14977,,Pleistocene,Pre-Extinction,Extinct,2,A2,0.286,5.9,-15.1,,,15.9,44,2.8,,x
+41229-10796,41229-10796,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Hall's Cave,30.13,-99.54,Pit 1D/E,Holocene,11503.5,11503.5,,Holocene,Pre-Extinction,Extinct,2,A6,0.286,7.9,-9.9,,,16.3,44.8,2.7,,x
+41229-10798,41229-10798,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Hall's Cave,30.13,-99.54,Pit 1D/E,Holocene,11503.5,11503.5,,Holocene,Pre-Extinction,Extinct,2,A5,0.287,8.5,-10.5,,,11.7,32.4,2.8,,x
+41229-10802,41229-10802,Large,Carnivore,Canis,lupus/dirus,Canis,lupus/dirus,37000,TMM,Hall's Cave,30.13,-99.54,171.5?,,,11998,,Pleistocene,Pre-Extinction,Extinct,1,A2,0.554,13.7,-12.6,,,15.5,42.4,2.7,,x
+41229-10803,41229-10803,Large,Herbivore,Bison,antiguus,Bison,antiguus,579255,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,21577,21577,,Pleistocene,Pre-Extinction,Extinct,1,H7,0.523,7,-12.3,,,13.5,38.3,2.8,,x
+41229-10809,41229-10809,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Hall's Cave,30.13,-99.54,NA,NA,,,,,,,1,H8,0.561,9.7,-8.3,,,16.5,45.5,2.8,,x
+41229-10810,41229-10810,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,NA,NA,,,,,,,1,H9,0.544,10.3,-18.4,,,14.6,41.5,2.8,,x
+41229-10867,41229-10867,Small,Carnivore,Urocyon or Vulpes,,Urocyon or Vulpes,,4132,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,1,F12,0.567,11.7,-14.4,,,15.6,43.3,2.8,,x
+41229-10876,41229-10876,Large,Carnivore,Canis,sp.,Canis,sp.,37000,TMM,Hall's Cave,30.13,-99.54,190-195,,,13315,,Pleistocene,Pre-Extinction,,1,B1,0.564,12.3,-11.8,,,15.5,43.2,2.8,,x
+41229-11094,41229-11094,Large,Carnivore,Canis,cf. latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,195-200,,,13645,,Pleistocene,Pre-Extinction,Survivor,1,A1,0.514,12.3,-11.9,,,15.9,43.5,2.7,,x
+41229-11182,41229-11182,Large,Carnivore,Canis,sp.,Canis,sp.,37000,TMM,Hall's Cave,30.13,-99.54,215-220,,,15095,,Pleistocene,Pre-Extinction,,1,D7,0.527,5,-18.7,,,15.1,42.3,2.8,,x
+41229-12042,41229-12042,Large,Carnivore,Canis,lupus,Canis,lupus,37000,TMM,Hall's Cave,30.13,-99.54,,,,,,,,Survivor,1,B4,0.58,10.9,-10.6,,,15.3,43.6,2.9,,x
+41229-12071,41229-12071,Small,Carnivore,Urocyon or Vulpes,,Urocyon or Vulpes,,4132,TMM,Hall's Cave,30.13,-99.54,155-160,,,11010,,Holocene,Pre-Extinction,Survivor,1,B9,0.597,10.3,-16.1,,,15.4,43,2.8,,x
+41229-1302,41229-1302,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,075-080,,,5739,,Holocene,Post-Extinction,Survivor,3,A5,0.535,6.9,-22.7,,,9.7,30.7,3.2,,x
+41229-1306,41229-1306,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,075-080,,,5739,,Holocene,Post-Extinction,Survivor,3,B2,0.526,5.4,-14.1,,,14.4,42.8,3,,x
+41229-1350,41229-1350,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,025-030,,,2446,,Holocene,Post-Extinction,Survivor,2,C2,0.527,4.7,-15.3,,,15.9,45,2.8,,x
+41229-1362,41229-1362,Large,Herbivore,Bison,antiguus,Bison,antiguus,579255,TMM,Hall's Cave,30.13,-99.54,,Pleistocene,14977,14977,,Pleistocene,Pre-Extinction,Extinct,2,A4,0.28,10.4,-9.3,,,16.6,46.2,2.8,,x
+41229-14048,41229-14048,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,2,C4,0.574,5.4,-17.4,,,14.8,44.2,3,,x
+41229-14145,41229-14145,,NA,NA,,,,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,2,G5,0.575,5.5,-15.5,,,14.6,43.3,3,,x
+41229-15781,41229-15781,Large,Carnivore,Canis,lupus (?),Canis,lupus,37000,TMM,Hall's Cave,30.13,-99.54,065-070,,,5081,,Holocene,Post-Extinction,Survivor,1,C1,0.518,6.3,-17.7,,,15.2,43.4,2.9,,x
+41229-15782,41229-15782,,NA,NA,,,,,TMM,Hall's Cave,30.13,-99.54,140-145,,,10021,,Holocene,Post-Extinction,Survivor,1,D4,0.376,11.1,-13.2,,,14.8,42.4,2.9,,x
+41229-1596,41229-1596,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,025-030,,,2446,,Holocene,Post-Extinction,Survivor,2,F12,0.594,5.6,-18.3,,,16.4,45.7,2.8,,x
+41229-1597,41229-1597,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,025-030,,,2446,,Holocene,Post-Extinction,Survivor,3,G7,0.554,5.6,-16.5,,,14.9,44.2,3,,x
+41229-1598,41229-1598,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,025-030,,,2446,,Holocene,Post-Extinction,Survivor,3,B5,0.585,5.9,-13.8,,,14.5,41.8,2.9,,x
+41229-16974,41229-16974,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,010-015,,,1458,,Holocene,Post-Extinction,Survivor,2,A9,0.535,5.7,-18.5,,,15.3,44,2.9,,x
+41229-16978,41229-16978,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,010-015,,,1458,,Holocene,Post-Extinction,Survivor,2,E10,0.522,4.2,-17.9,,,15.2,44,2.9,,x
+41229-16992,41229-16992,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,015-020,,,1787,,Holocene,Post-Extinction,Survivor,3,G5,0.565,4.7,-17.7,,,14.8,45,3,,x
+41229-16995,41229-16995,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,015-020,,,1787,,Holocene,Post-Extinction,Survivor,3,B9,0.572,3.6,-15,,,14.7,41.3,2.8,,x
+41229-16997,41229-16997,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,015-020,,,1787,,Holocene,Post-Extinction,Survivor,3,G10,0.548,4.6,-17.7,,,17,49.3,2.9,,x
+41229-17003,41229-17003,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,H6,0.567,3.5,-21.5,,,15.5,45.3,2.9,,x
+41229-17015,41229-17015,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,F2,0.536,4.1,-16.1,,,16.1,44.3,2.7,,x
+41229-17024,41229-17024,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,C6,0.556,3.8,-17.7,,,13.9,42.5,3.1,,x
+41229-17026,41229-17026,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,B8,0.538,4.1,-17.8,,,16.6,47.6,2.9,,x
+41229-17029,41229-17029,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,C11,0.546,3,-21.3,,,15.8,45.5,2.9,,x
+41229-17031,41229-17031,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,3,H2,0.53,6,-15.9,,,16.9,48.5,2.9,,x
+41229-17032,41229-17032,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,D8,0.567,3.7,-18.1,,,15.6,45.5,2.9,,x
+41229-17033,41229-17033,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,A7,0.574,4.4,-18.3,,,16.1,46,2.8,,x
+41229-17034,41229-17034,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,3,F2,0.54,4.2,-16.9,,,17.2,48.1,2.8,,x
+41229-17035,41229-17035,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,H9,0.552,4.2,-15.1,,,15.7,45.6,2.9,,x
+41229-17038,41229-17038,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,B7,0.579,4.8,-18.4,,,15.7,43.2,2.8,,x
+41229-17039,41229-17039,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,G12,0.523,6.2,-17.5,,,15.8,44.4,2.8,,x
+41229-17040,41229-17040,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,3,C1,0.564,3.7,-18.5,,,14.9,42.4,2.8,,x
+41229-17041,41229-17041,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,G8,0.584,5.2,-16.1,,,15.2,43.9,2.9,,x
+41229-17042,41229-17042,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,3,E8,0.511,6,-18.1,,,16.1,45.4,2.8,,x
+41229-17044,41229-17044,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,F7,0.598,4.7,-15.5,,,13.9,41.1,2.9,,x
+41229-17045,41229-17045,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,3,A6,0.588,4.3,-13.7,,,13,38.6,3,,x
+41229-17046,41229-17046,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,2,B12,0.575,4.9,-13.4,,,16.1,46.1,2.9,,x
+41229-17051,41229-17051,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,035-040,,,3104,,Holocene,Post-Extinction,Survivor,2,D5,0.524,5.5,-16.4,,,15.5,46.3,3,,x
+41229-17052,41229-17052,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,035-040,,,3104,,Holocene,Post-Extinction,Survivor,3,A10,0.58,5.2,-17.7,,,14.1,42.4,3,,x
+41229-17056,41229-17056,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,2,G4,0.57,5.7,-17,,,14,40.9,2.9,,x
+41229-17058,41229-17058,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,3,D1,0.565,5.2,-16.4,,,16.5,44.4,2.7,,x
+41229-17061,41229-17061,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,3,A1,0.603,3.1,-20.3,,,15.3,46.5,3,,x
+41229-17063,41229-17063,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,3,B10,0.513,4.1,-17.6,,,14.6,42.6,2.9,,x
+41229-17066,41229-17066,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,3,E4,0.558,6.3,-18.4,,,13.2,39.5,3,,x
+41229-17076,41229-17076,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,2,E9,0.504,3.8,-17.4,,,13.2,38.6,2.9,,x
+41229-17077,41229-17077,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,3,C8,0.542,4.1,-16.6,,,14.1,38.9,2.8,,x
+41229-17078,41229-17078,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,3,G4,0.514,4.4,-21.3,,,14.9,43.6,2.9,,x
+41229-17079,41229-17079,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,2,D11,0.578,5.9,-20,,,15.2,44.7,2.9,,x
+41229-17081,41229-17081,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,2,D2,0.519,5.3,-19.1,,,13.5,39.9,2.9,,x
+41229-17083,41229-17083,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,2,F1,0.515,4,-17.1,,,14.3,42.7,3,,x
+41229-17084,41229-17084,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,3,G1,0.534,4.7,-21.2,,,14.5,42.8,2.9,,x
+41229-17086,41229-17086,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,3,B1,0.519,5.6,-17,,,14.4,40.7,2.8,,x
+41229-17087,41229-17087,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,3,D7,0.561,7.6,-18.6,,,14.8,42.1,2.8,,x
+41229-17089,41229-17089,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,2,E6,0.563,7.8,-16.7,,,14.7,42.7,2.9,,x
+41229-17091,41229-17091,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,2,H11,0.566,4,-17.4,,,14.9,43.5,2.9,,x
+41229-17108,41229-17108,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,3,F1,0.58,6.8,-9.9,,,9.5,28.6,3,,x
+41229-17116,41229-17116,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,B11,0.574,4.8,-17.9,,,14.7,42.4,2.9,,x
+41229-17118,41229-17118,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,D3,0.567,5.5,-17.5,,,15.2,44.5,2.9,,x
+41229-17118,41229-17118,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,D3,0.567,5.5,-17.5,,,15.2,44.5,2.9,,x
+41229-17119,41229-17119,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,3,F7,0.526,6.2,-12.2,,,11.6,34.9,3,,x
+41229-17120,41229-17120,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,F5,0.599,4,-17.5,,,15.8,44.7,2.8,,x
+41229-17122,41229-17122,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,3,F6,0.565,4.2,-20.4,,,16,44.9,2.8,,x
+41229-17123,41229-17123,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,3,F11,0.56,4.9,-14.3,,,15,43.1,2.9,,x
+41229-17129,41229-17129,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,F8,0.519,6,-15.4,,,15.2,43.3,2.8,,x
+41229-17131,41229-17131,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,B4,0.587,4.6,-16.9,,,15.8,46.3,2.9,,x
+41229-17137,41229-17137,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,2,D12,0.542,4.6,-16,,,14.4,42,2.9,,x
+41229-17138,41229-17138,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,3,G12,0.58,6.1,-14.6,,,14.9,43.2,2.9,,x
+41229-17142,41229-17142,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,2,G1,0.567,3.8,-17.9,,,14.5,42.2,2.9,,x
+41229-17143,41229-17143,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,3,B12,0.536,6.6,-13.1,,,13.6,40.2,3,,x
+41229-17144,41229-17144,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,3,C7,0.538,4.1,-13.5,,,11.6,35.6,3.1,,x
+41229-17146,41229-17146,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,2,A11,0.536,4.4,-21.5,,,15.7,45.4,2.9,,x
+41229-17147,41229-17147,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,2,H7,0.548,5.1,-15.2,,,15.2,44.3,2.9,,x
+41229-17151,41229-17151,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,3,D5,0.553,5,-17.9,,,14.7,42.2,2.9,,x
+41229-17154,41229-17154,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,2,G9,0.576,6,-17.9,,,15.6,45.7,2.9,,x
+41229-17156,41229-17156,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,3,G9,0.511,5,-21.6,,,16.5,48.2,2.9,,x
+41229-17157,41229-17157,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,3,D12,0.585,4.9,-18.2,,,15.3,41.9,2.7,,x
+41229-17159,41229-17159,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,060-065,,,4751,,Holocene,Post-Extinction,Survivor,3,C11,0.565,4.3,-19.4,,,16,43.2,2.7,,x
+41229-17170,41229-17170,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,070-075,,,5410,,Holocene,Post-Extinction,Survivor,2,F4,0.586,5,-16.1,,,15.3,43.5,2.8,,x
+41229-17171,41229-17171,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,070-075,,,5410,,Holocene,Post-Extinction,Survivor,3,A7,0.537,6.9,-21.1,,,13.8,41.6,3,,x
+41229-17172,41229-17172,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,070-075,,,5410,,Holocene,Post-Extinction,Survivor,2,G6,0.593,5.7,-18,,,12,36.4,3,,x
+41229-17173,41229-17173,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,070-075,,,5410,,Holocene,Post-Extinction,Survivor,2,A1,0.552,3.2,-18.2,,,13.3,39.2,2.9,,x
+41229-17174,41229-17174,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,070-075,,,5410,,Holocene,Post-Extinction,Survivor,2,E7,0.531,5.2,-15.8,,,13.4,41.3,3.1,,x
+41229-17176,41229-17176,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,075-080,,,5739,,Holocene,Post-Extinction,Survivor,3,E9,0.587,6.6,-17.6,,,13.8,39.9,2.9,,x
+41229-17177,41229-17177,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,075-080,,,5739,,Holocene,Post-Extinction,Survivor,2,E1,0.533,6,-13.2,,,14.6,42.1,2.9,,x
+41229-17179,41229-17179,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,075-080,,,5739,,Holocene,Post-Extinction,Survivor,3,C12,0.521,5.4,-17,,,16.3,43.3,2.7,,x
+41229-17187,41229-17187,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,075-080,,,5739,,Holocene,Post-Extinction,Survivor,2,A4,0.578,4.2,-12.9,,,15,42.4,2.8,,x
+41229-17191,41229-17191,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,080-085,,,6069,,Holocene,Post-Extinction,Survivor,3,B8,0.515,4.5,-19.1,,,13.4,38.2,2.9,,x
+41229-17220,41229-17220,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,085-090,,,6398,,Holocene,Post-Extinction,Survivor,3,D4,0.537,7,-11.3,,,15.7,42.4,2.7,,x
+41229-17221,41229-17221,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,085-090,,,6398,,Holocene,Post-Extinction,Survivor,3,D2,0.538,7.3,-20.5,,,15.5,42.5,2.7,,x
+41229-17230,41229-17230,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,2,H12,0.562,4.8,-17.2,,,14.3,43.9,3.1,,x
+41229-17231,41229-17231,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,2,D10,0.514,6,-15.4,,,15.7,45.8,2.9,,x
+41229-17232,41229-17232,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,2,F9,0.507,6.2,-21.4,,,12.1,36.5,3,,x
+41229-17233,41229-17233,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,3,A9,0.527,5.7,-15.4,,,14.3,41.7,2.9,,x
+41229-17234,41229-17234,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,3,C9,0.544,4.7,-17,,,15.7,43.8,2.8,,x
+41229-17235,41229-17235,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,3,G3,0.571,6.2,-17.8,,,13.4,40.3,3,,x
+41229-17236,41229-17236,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,2,A8,0.559,6.9,-14.9,,,15.2,43.9,2.9,,x
+41229-17239,41229-17239,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,095-100,,,7057,,Holocene,Post-Extinction,Survivor,3,D9,0.602,5.2,-22.3,,,11.9,35.3,3,,x
+41229-17244,41229-17244,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,095-100,,,7057,,Holocene,Post-Extinction,Survivor,3,F4,0.549,5.5,-18.5,,,15.2,43.5,2.9,,x
+41229-17246,41229-17246,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,095-100,,,7057,,Holocene,Post-Extinction,Survivor,3,A2,0.546,5.2,-16.8,,,14.9,43.1,2.9,,x
+41229-17247,41229-17247,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,095-100,,,7057,,Holocene,Post-Extinction,Survivor,2,A6,0.516,4.3,-16.5,,,15.2,44.3,2.9,,x
+41229-17248,41229-17248,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,095-100,,,7057,,Holocene,Post-Extinction,Survivor,2,E5,0.548,6.1,-22.2,,,14,41.8,3,,x
+41229-17254,41229-17254,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,100-105,,,7386,,Holocene,Post-Extinction,Survivor,2,C1,0.584,5.3,-17.9,,,15.6,44.6,2.9,,x
+41229-17255,41229-17255,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,100-105,,,7386,,Holocene,Post-Extinction,Survivor,3,F9,0.541,7.8,-16.8,,,13.9,40.8,2.9,,x
+41229-17256,41229-17256,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,100-105,,,7386,,Holocene,Post-Extinction,Survivor,3,H1,0.519,5,-18.1,,,11.7,36.2,3.1,,x
+41229-17270,41229-17270,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,105-110,,,7716,,Holocene,Post-Extinction,Survivor,3,B3,0.524,6.3,-20.8,,,10,28.8,2.9,,x
+41229-17271,41229-17271,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,105-110,,,7716,,Holocene,Post-Extinction,Survivor,3,C3,0.565,6.5,-19.3,,,14.5,41.6,2.9,,x
+41229-17272,41229-17272,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,105-110,,,7716,,Holocene,Post-Extinction,Survivor,2,E2,0.592,7.5,-18.5,,,13.5,39.1,2.9,,x
+41229-17276,41229-17276,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,110-115,,,8045,,Holocene,Post-Extinction,Survivor,2,B2,0.554,5.7,-18,,,16.5,46.3,2.8,,x
+41229-17278,41229-17278,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,110-115,,,8045,,Holocene,Post-Extinction,Survivor,2,G3,0.539,3.8,-20.9,,,15.8,44.3,2.8,,x
+41229-17280,41229-17280,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,110-115,,,8045,,Holocene,Post-Extinction,Survivor,3,G2,0.495,4.5,-15,,,13.3,38.5,2.9,,x
+41229-17284,41229-17284,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,110-115,,,8045,,Holocene,Post-Extinction,Survivor,3,E7,0.581,5.6,-14.7,,,15.7,44,2.8,,x
+41229-17285,41229-17285,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,110-115,,,8045,,Holocene,Post-Extinction,Survivor,3,E11,0.576,5.6,-20.4,,,14.3,41.8,2.9,,x
+41229-17286,41229-17286,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,110-115,,,8045,,Holocene,Post-Extinction,Survivor,2,D9,0.525,5.1,-12.1,,,14.9,43.6,2.9,,x
+41229-17287,41229-17287,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,110-115,,,8045,,Holocene,Post-Extinction,Survivor,3,D6,0.551,6.7,-16.4,,,16,44.4,2.8,,x
+41229-17289,41229-17289,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,115-120,,,8375,,Holocene,Post-Extinction,Survivor,2,B10,0.574,5.8,-18.8,,,14.8,43,2.9,,x
+41229-17290,41229-17290,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,115-120,,,8375,,Holocene,Post-Extinction,Survivor,2,H5,0.591,6.2,-18.3,,,14.8,43.3,2.9,,x
+41229-17291,41229-17291,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,115-120,,,8375,,Holocene,Post-Extinction,Survivor,2,C3,0.55,6.1,-16.3,,,15.8,45.8,2.9,,x
+41229-17295,41229-17295,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,115-120,,,8375,,Holocene,Post-Extinction,Survivor,3,E6,0.528,5.5,-14.2,,,14.5,41.5,2.9,,x
+41229-17296,41229-17296,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,115-120,,,8375,,Holocene,Post-Extinction,Survivor,2,E12,0.545,6.3,-20.1,,,12.3,36.6,3,,x
+41229-17308,41229-17308,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,120-125,,,8704,,Holocene,Post-Extinction,Survivor,2,E8,0.541,5.6,-22.3,,,15.1,43.8,2.9,,x
+41229-17309,41229-17309,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,120-125,,,8704,,Holocene,Post-Extinction,Survivor,2,G11,0.549,5.9,-16.9,,,15.6,42.9,2.8,,x
+41229-17310,41229-17310,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,120-125,,,8704,,Holocene,Post-Extinction,Survivor,2,G10,0.541,5.8,-16.4,,,15,44.4,3,,x
+41229-17311,41229-17311,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,120-125,,,8704,,Holocene,Post-Extinction,Survivor,3,A4,0.589,6,-15.8,,,15.1,44.8,3,,x
+41229-17314,41229-17314,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,120-125,,,8704,,Holocene,Post-Extinction,Survivor,2,F11,0.584,5.1,-18,,,15.9,44.3,2.8,,x
+41229-17316,41229-17316,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,120-125,,,8704,,Holocene,Post-Extinction,Survivor,2,C10,0.584,7.1,-12.1,,,13.1,38.2,2.9,,x
+41229-17318,41229-17318,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,125-130,,,9033,,Holocene,Post-Extinction,Survivor,2,A10,0.527,5.8,-16.9,,,16.1,44.8,2.8,,x
+41229-17325,41229-17325,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,125-130,,,9033,,Holocene,Post-Extinction,Survivor,3,B11,0.528,6.7,-19.1,,,14.9,42.1,2.8,,x
+41229-17327,41229-17327,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,125-130,,,9033,,Holocene,Post-Extinction,Survivor,2,H8,0.507,4.7,-21.8,,,11.8,35,3,,x
+41229-17330,41229-17330,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,125-130,,,9033,,Holocene,Post-Extinction,Survivor,2,E11,0.582,4.7,-16.3,,,16.1,44.2,2.8,,x
+41229-17379,41229-17379,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,135-140,,,9692,,Holocene,Post-Extinction,Survivor,2,F6,0.543,6.8,-21.7,,,14.9,43.4,2.9,,x
+41229-17383,41229-17383,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,135-140,,,9692,,Holocene,Post-Extinction,Survivor,2,E4,0.529,4.3,-21.2,,,9.6,29.5,3.1,,x
+41229-17385,41229-17385,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,135-140,,,9692,,Holocene,Post-Extinction,Survivor,3,A11,0.57,7.5,-22.4,,,14.4,41.2,2.9,,x
+41229-17386,41229-17386,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,135-140,,,9692,,Holocene,Post-Extinction,Survivor,3,F12,0.527,6.1,-20.3,,,15.3,43.6,2.9,,x
+41229-17387,41229-17387,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,135-140,,,9692,,Holocene,Post-Extinction,Survivor,3,B7,0.55,7.1,-20.2,,,14.5,42.3,2.9,,x
+41229-17389,41229-17389,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,135-140,,,9692,,Holocene,Post-Extinction,Survivor,3,C5,0.582,6.4,-15.3,,,15.1,41.9,2.8,,x
+41229-17391,41229-17391,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,135-140,,,9692,,Holocene,Post-Extinction,Survivor,2,G2,0.555,7.3,-21.5,,,15.1,43,2.9,,x
+41229-17392,41229-17392,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,135-140,,,9692,,Holocene,Post-Extinction,Survivor,3,E10,0.569,6.4,-20.8,,,15.5,44.3,2.9,,x
+41229-17411,41229-17411,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,2,H10,0.512,4,-21.9,,,8.1,25.2,3.1,,x
+41229-17412,41229-17412,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,2,B3,0.495,6.8,-22.7,,,12.5,36.6,2.9,,x
+41229-17413,41229-17413,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,3,E3,0.562,6.8,-21.2,,,11.7,33.8,2.9,,x
+41229-17414,41229-17414,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,3,E1,0.514,6.9,-22.8,,,10.9,31.8,2.9,,x
+41229-17415,41229-17415,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,2,F3,0.536,6.3,-22.4,,,11.6,35.2,3,,x
+41229-17416,41229-17416,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,3,F8,0.587,4.9,-18,,,11.4,34,3,,x
+41229-17417,41229-17417,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,3,B4,0.575,6.1,-21,,,6.1,18.4,3,,x
+41229-17418,41229-17418,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,2,B6,0.575,4,-19.1,,,14,40.3,2.9,,x
+41229-17421,41229-17421,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,2,D7,0.526,5.6,-11.9,,,15,43.8,2.9,,x
+41229-17422,41229-17422,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,2,C7,0.595,4,-18.8,,,13.8,40.3,2.9,,x
+41229-17451,41229-17451,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,155-160,,,11010,,Holocene,Pre-Extinction,Survivor,2,C8,0.582,4.8,-21.3,,,14.7,42.7,2.9,,x
+41229-17453,41229-17453,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,155-160,,,11010,,Holocene,Pre-Extinction,Survivor,2,H3,0.554,6.5,-20.9,,,10.4,31.6,3,,x
+41229-17454,41229-17454,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,155-160,,,11010,,Holocene,Pre-Extinction,Survivor,3,A8,0.594,7,-19.1,,,10.8,31.7,2.9,,x
+41229-17457,41229-17457,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,155-160,,,11010,,Holocene,Pre-Extinction,Survivor,3,C6,0.529,5.9,-16.5,,,14.2,39.3,2.8,,x
+41229-17459,41229-17459,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,155-160,,,11010,,Holocene,Pre-Extinction,Survivor,3,G11,0.518,5.3,-16.2,,,10.8,31.4,2.9,,x
+41229-17510,41229-17510,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,175-180,,,12327,,Pleistocene,Pre-Extinction,Survivor,3,B6,0.505,4.7,-12.8,,,15.3,44.2,2.9,,x
+41229-17689,41229-17689,Small,NA,Sorex,,Sorex,,13,TMM,Hall's Cave,30.13,-99.54,130-135,,,9363,,Holocene,Post-Extinction,Survivor,5,D10,0.585,10.1,-17.7,,,14.2,40.7,2.9,,x
+41229-2539,41229-2539,Large,Carnivore,Canis,cf. latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,1,C4,0.628,8.1,-12.5,,,15.2,42.2,2.8,,x
+41229-2554,41229-2554,Large,Carnivore,Canis,cf. latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,090-095,,,6728,,Holocene,Post-Extinction,Survivor,1,B6,0.561,9.4,-16.2,,,15.3,43.1,2.8,,x
+41229-2588,41229-2588,Large,Carnivore,Canis,cf. latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,075-080,,,5739,,Holocene,Post-Extinction,Survivor,1,B2,0.521,7,-14.2,,,15.4,43.2,2.8,,x
+41229-2594,41229-2594,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,105-110,,,7716,,Holocene,Post-Extinction,Survivor,2,H2,0.553,6.4,-18.6,,,13.8,42.6,3.1,,x
+41229-2729,41229-2729,Large,Carnivore,Ursus,sp.,Ursus,americanus,99949,TMM,Hall's Cave,30.13,-99.54,East of Pit 1; approximately 153 cm,,,10680,,Holocene,Pre-Extinction,Survivor,5,E5,0.532,5.4,-18.9,,,11.4,34,3,,x
+41229-2777,41229-2777,Large,Carnivore,Canis,familiaris,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,025-030,,,2446,,Holocene,Post-Extinction,Survivor,1,A4,0.664,9,-15.2,,,15.3,42.7,2.8,,x
+41229-2896,41229-2896,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,030-035,,,2775,,Holocene,Post-Extinction,Survivor,3,F5,0.554,5.9,-18.3,,,14.1,40.5,2.9,,x
+41229-2918,41229-2918,,NA,NA,,,,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,2,H1,0.57,4.9,-19.1,,,15.4,43.2,2.8,,x
+41229-2926,41229-2926,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,035-040,,,3104,,Holocene,Post-Extinction,Survivor,3,C10,0.544,4.4,-22.1,,,10.9,34.2,3.1,,x
+41229-2939,41229-2939,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,025-030,,,2446,,Holocene,Post-Extinction,Survivor,3,E5,0.529,4.3,-19.4,,,16.3,45.2,2.8,,x
+41229-294,41229-294,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,150-165,,,10680,,Holocene,Pre-Extinction,Survivor,1,A3,0.647,10.6,-16.1,,,15.8,43.2,2.7,,x
+41229-3539,41229-3539,Large,Carnivore,Felis,weidii or yagouarondi,Felis,weidii or yagouarondi,3583,TMM,Hall's Cave,30.13,-99.54,175-180,,,11998,,Pleistocene,Pre-Extinction,Survivor,5,C5,0.56,12.7,-18.8,,,14.8,42.6,2.9,,x
+41229-3543,41229-3543,Large,Carnivore,Canis,lupus/dirus,Canis,lupus/dirus,37000,TMM,Hall's Cave,30.13,-99.54,180-185,,,12656,,Pleistocene,Pre-Extinction,Extinct,1,A8,0.553,12.9,-12.7,,,15.6,43,2.7,,x
+41229-3575,41229-3575,Large,Carnivore,Canis,cf. latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,1,C7,0.457,11.7,-7.7,,,15.2,42.1,2.8,,x
+41229-3743,41229-3743,Large,Carnivore,Canis,lupus (?),Canis,lupus,37000,TMM,Hall's Cave,30.13,-99.54,190-195,,,13315,,Pleistocene,Pre-Extinction,Survivor,1,B12,0.611,12.6,-16.5,,,15.2,43.1,2.8,,x
+41229-3768,41229-3768,Large,Herbivore,Bovidae?,,,,579255,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,14858.5,14858.5,,Pleistocene,Pre-Extinction,,1,H4,0.544,7.6,-7.8,,,14.6,40.1,2.8,,x
+41229-4004,41229-4004,Large,Carnivore,Canis,cf. latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,1,D5,0.48,9.6,-11.6,,,15.5,43.5,2.8,,x
+41229-4017,41229-4017,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,A3,0.531,5.3,-13.1,,,15.3,44.8,2.9,,x
+41229-4018,41229-4018,Small,Herbivore,Sylvilagus,,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,3,E12,0.534,5.7,-13.3,,,15.6,44.6,2.9,,x
+41229-4098,41229-4098,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,040-045,,,3434,,Holocene,Post-Extinction,Survivor,2,A5,0.53,6,-14.1,,,15.9,45.8,2.9,,x
+41229-462,41229-462,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,Pit 1A,Holocene,5574.5,5574.5,,Holocene,Post-Extinction,Survivor,2,A3,0.294,5.7,-19.5,,,17.2,46.5,2.7,,x
+41229-4753,41229-4753,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,105-110,,,7716,,Holocene,Post-Extinction,Survivor,3,A12,0.419,6.2,-15.7,,,13.2,38.3,2.9,,x
+41229-4998,41229-4998,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,120-125,,,8704,,Holocene,Post-Extinction,Survivor,3,F3,0.537,7.2,-18.1,,,14.3,40.4,2.8,,x
+41229-520,41229-520,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,13569,13569,,Pleistocene,Pre-Extinction,Extinct,1,H2,0.512,5.7,-13.8,,,16,44.5,2.8,,x
+41229-5921,41229-5921,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,2,B5,0.563,6.6,-18.6,,,14.3,44.4,3.1,,x
+41229-5922,41229-5922,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,2,C5,0.538,6.6,-18.1,,,14.8,44.8,3,,x
+41229-643,41229-643,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,075-080,,,5739,,Holocene,Post-Extinction,Survivor,4,B12,0.539,7.8,-19.5,,,15.1,43.9,2.9,,x
+41229-645,41229-645,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,4,E6,0.531,7.1,-18.9,,,15.9,45.1,2.8,,x
+41229-646,41229-646,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,Pit 1,Pleistocene,13404,13404,,Pleistocene,Pre-Extinction,Survivor,2,B11,0.296,11.1,-19.2,,,13.8,39.1,2.8,,x
+41229-6561,41229-6561,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,1,A6,0.692,7.9,-16.6,,,15.7,43.2,2.8,,x
+41229-6562,41229-6562,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,145-150,,,10351,,Holocene,Pre-Extinction,Survivor,1,D3,0.64,7.5,-15.9,,,15.5,43.5,2.8,,x
+41229-673,41229-673,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,Pit 1A,Holocene,2610.5,2610.5,,Holocene,Post-Extinction,Survivor,2,B10,0.282,6.7,-19.9,,,16.3,45.6,2.8,,x
+41229-675,41229-675,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,Pit 1B,Holocene,7880.5,7880.5,,Holocene,Post-Extinction,Survivor,2,B8,0.282,5.7,-18.3,,,15.2,44.1,2.9,,x
+41229-676,41229-676,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,Pit 1B,Holocene,7880.5,7880.5,,Holocene,Post-Extinction,Survivor,2,B9,0.298,5.8,-18.3,,,16,46.8,2.9,,x
+41229-689,41229-689,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,030-035,,,2775,,Holocene,Post-Extinction,Survivor,3,F10,0.576,5.9,-15.2,,,15.8,46,2.9,,x
+41229-697,41229-697,Large,Carnivore,Canis,cf. latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,1,F8,0.635,8.1,-17.1,,,16.1,42.8,2.7,,x
+41229-699,41229-699,Large,Carnivore,Canidae,,,,,TMM,Hall's Cave,30.13,-99.54,010-015,,,1458,,Holocene,Post-Extinction,Survivor,1,B3,0.585,9.5,-17.6,,,15.8,44.1,2.8,,x
+41229-700,41229-700,Large,Carnivore,Canis,lupus,Canis,lupus,13406,TMM,Hall's Cave,30.13,-99.54,010-015,,,1458,,Holocene,Post-Extinction,Survivor,1,D9,0.586,10.4,-9.4,,,15.3,42.4,2.8,,x
+41229-701,41229-701,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,A2,0.562,4.8,-16.7,,,15.2,43.6,2.9,,x
+41229-719,41229-719,Small,Carnivore,Urocyon or Vulpes,,Urocyon or Vulpes,,4132,TMM,Hall's Cave,30.13,-99.54,005-010,,,1128,,Holocene,Post-Extinction,Survivor,1,F6,0.521,8.8,-19.2,,,15.6,43.3,2.8,,x
+41229-7198,41229-7198,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Hall's Cave,30.13,-99.54,NA,NA,,,,,,,1,H5,0.6,11.6,-14.8,,,6.5,19.8,3,,x
+41229-720,41229-720,Large,Carnivore,Canis,sp.,Canis,sp.,13406,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,1,D6,0.531,6.9,-15.6,,,14.8,42.5,2.9,,x
+41229-721,41229-721,Large,Carnivore,Canis,sp.,Canis,sp.,13406,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,1,C8,0.587,7.2,-16.3,,,15.2,42.5,2.8,,x
+41229-7429,41229-7429,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,025-030,,,2446,,Holocene,Post-Extinction,Survivor,3,A3,0.551,6.6,-13,,,14.8,44.2,3,,x
+41229-7436,41229-7436,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,065-070,,,5081,,Holocene,Post-Extinction,Survivor,2,B1,0.58,5,-13.1,,,16.4,45.1,2.8,,x
+41229-7437,41229-7437,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,065-070,,,5081,,Holocene,Post-Extinction,Survivor,2,C9,0.518,5,-15.5,,,15.7,45.5,2.9,,x
+41229-7438,41229-7438,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,065-070,,,5081,,Holocene,Post-Extinction,Survivor,3,D10,0.532,5.4,-19.2,,,14.4,41.8,2.9,,x
+41229-7439,41229-7439,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,065-070,,,5081,,Holocene,Post-Extinction,Survivor,2,C12,0.541,4.9,-13.6,,,15.1,43.8,2.9,,x
+41229-7442,41229-7442,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,065-070,,,5081,,Holocene,Post-Extinction,Survivor,2,G7,0.536,5.2,-17.6,,,15.3,44.2,2.9,,x
+41229-7646,41229-7646,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,040-045,,,3434,,Holocene,Post-Extinction,Survivor,3,G8,0.544,5.1,-17.3,,,2.9,11.8,4.1,,x
+41229-7936,41229-7936,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,020-025,,,2116,,Holocene,Post-Extinction,Survivor,3,C4,0.553,4.8,-17.4,,,15.5,42.6,2.8,,x
+41229-8271,41229-8271,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,225-230,,,15566,,Pleistocene,Pre-Extinction,Survivor,3,D11,0.571,5.3,-20,,,14.1,39.8,2.8,,x
+41229-8326,41229-8326,Large,Carnivore,Canis,sp.,Canis,sp.,13406,TMM,Hall's Cave,30.13,-99.54,005-010,,,1128,,Holocene,Post-Extinction,Survivor,1,D1,0.523,8.5,-12.6,,,15.1,42.8,2.8,,x
+41229-863,41229-863,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,015-020,,,1787,,Holocene,Post-Extinction,Survivor,2,E3,0.531,4.6,-17.5,,,15.6,45,2.9,,x
+41229-866,41229-866,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,015-020,,,1787,,Holocene,Post-Extinction,Survivor,2,D1,0.53,4.6,-18.4,,,15.4,44.3,2.9,,x
+41229-868,41229-868,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,Pit 1,Holocene,4257.5,4257.5,,Holocene,Post-Extinction,Survivor,2,A11,0.287,5.9,-19.5,,,16.6,45.3,2.7,,x
+41229-900,41229-900,Large,Carnivore,Panthera,onca augusta?atrox,Panthera,onca,100000,TMM,Hall's Cave,30.13,-99.54,150-155,,,10680,,Holocene,Pre-Extinction,Survivor,5,C1,0.586,13.6,-10.3,,,15.6,44.4,2.8,,x
+41229-9333,41229-9333,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Hall's Cave,30.13,-99.54,NA,Holocene,2610.5,2610.5,,Holocene,Post-Extinction,Survivor,1,H6,0.543,5.8,-19.6,,,15.1,43,2.9,,x
+41229-9509,41229-9509,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,2,D4,0.537,4.1,-21.6,,,16.1,46.3,2.9,,x
+41229-9510,41229-9510,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,055-060,,,4422,,Holocene,Post-Extinction,Survivor,3,D8,0.578,5.8,-19.2,,,15.5,44.1,2.8,,x
+41229-9806,41229-9806,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,050-055,,,4093,,Holocene,Post-Extinction,Survivor,3,E2,0.526,4.6,-17,,,16,45.4,2.8,,x
+41229-9825,41229-9825,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,195-200,,,13645,,Pleistocene,Pre-Extinction,Survivor,1,E7,0.541,8.7,-14.5,,,16.1,43.4,2.7,,x
+41229-9825,41229-9825,Small,Carnivore,Urocyon or Vulpes,,Urocyon or Vulpes,,4132,TMM,Hall's Cave,30.13,-99.54,195-200,,,13645,,Pleistocene,Pre-Extinction,Survivor,1,E7,0.541,8.7,-14.5,,,16.1,43.4,2.7,,x
+41229-9826,41229-9826,Small,Carnivore,Urocyon or Vulpes,,Urocyon or Vulpes,,4132,TMM,Hall's Cave,30.13,-99.54,195-200,,,13645,,Pleistocene,Pre-Extinction,Survivor,1,E8,0.509,6.8,-18.8,,,16.2,43.6,2.7,,x
+41229-9849,41229-9849,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,070-075,,,5410,,Holocene,Post-Extinction,Survivor,1,A5,0.447,7.7,-16.4,,,15.5,41.8,2.7,,x
+41229-98807,41229-98807,,NA,NA,,,,,TMM,NA,,,NA,,,0,,Modern,Post-Extinction,Survivor,2,H4,0.549,6.5,-15.8,,,14.5,43.2,3,,x
+41229-9881,41229-9881,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,105-110,,,7716,,Holocene,Post-Extinction,Survivor,1,A12,0.382,8.1,-16.2,,,28.2,77.2,2.7,,x
+41229-9951,41229-9951,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Hall's Cave,30.13,-99.54,110-115,,,8045,,Holocene,Post-Extinction,Survivor,1,A11,0.67,9.7,-13.1,,,16,43.4,2.7,,x
+41229-9988,41229-9988,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,2,D6,0.562,4.1,-16.7,,,16.8,48.2,2.9,,x
+41229-9989,41229-9989,Small,Herbivore,Sylvilagus,audubonii or floridanus,Sylvilagus,,1173,TMM,Hall's Cave,30.13,-99.54,045-050,,,3434,,Holocene,Post-Extinction,Survivor,2,B9,0.562,4.6,-18.9,,,16,45.6,2.8,,x
+41229-FE-CO-15780,41229-FE-CO-15780,Large,Carnivore,Puma,concolor,Puma,concolor,51600,TMM,Hall's Cave,30.13,-99.54,NA,NA,,,,,,Survivor,1,G2,0.558,8.6,-16.7,,,15.7,45.2,2.9,,x
+41229-FELIDAE-10420,41229-FELIDAE-10420,Large,Carnivore,Felidae,,,,,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,13150.5,13150.5,,Pleistocene,Pre-Extinction,,1,G1,0.559,9.9,-17.8,,,14.1,40.7,2.9,,x
+41229-MUSTELID-15778,41229-MUSTELID-15778,Small,Carnivore,Mustelidae,,Mustelidae,sp.,2.16732,TMM,Hall's Cave,30.13,-99.54,NA,Holocene,11174.5,11174.5,,Holocene,Pre-Extinction,,1,G7,0.538,11.9,-17,,,10.4,32.7,3.1,,x
+41229-MUSTELID-15779,41229-MUSTELID-15779,Small,Carnivore,Mustelidae,,Mustelidae,sp.,2.16732,TMM,Hall's Cave,30.13,-99.54,NA,Holocene,11174.5,11174.5,,Holocene,Pre-Extinction,,1,G8,0.558,10.3,-17.6,,,15.4,42.1,2.7,,x
+41229-PA-ON--3537,41229-PA-ON--3537,Large,Carnivore,Panthera,onca,Panthera,onca,100000,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,12491.5,12491.5,,Pleistocene,Pre-Extinction,Survivor,1,G6,0.544,12.7,-14,,,15.6,45.1,2.9,,x
+41229-PANTHERA-10799,41229-PANTHERA-10799,Large,Carnivore,Panthera,onca?,Panthera,onca,100000,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,11503.5,11503.5,,Holocene,Pre-Extinction,Survivor,1,G3,0.555,13,-10.1,,,15.9,45.8,2.9,,x
+41229-PANTHERA-10875,41229-PANTHERA-10875,Large,Carnivore,Panthera,,Panthera,onca,100000,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,13733.5,13733.5,,Pleistocene,Pre-Extinction,Survivor,1,G4,0.58,11.1,-14.2,,,16.1,45.9,2.8,,x
+41229-PANTHERA-10905,41229-PANTHERA-10905,Large,Carnivore,Panthera,onca?,Panthera,onca,100000,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,11503.5,11503.5,,Holocene,Pre-Extinction,Survivor,1,G5,0.528,13.1,-10.7,,,15.5,44.9,2.9,,x
+41229-SPILO-1021,41229-SPILO-1021,Small,Carnivore,Spilogale,,Spilogale,sp.,341,TMM,Hall's Cave,30.13,-99.54,NA,Holocene,11833,11833,,Pleistocene,Pre-Extinction,,1,G9,0.58,11.4,-18,,,8,23,2.9,,x
+41229-SPILO-3744,41229-SPILO-3744,Small,Carnivore,Spilogale,,Spilogale,sp.,341,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,13150.5,13150.5,,Pleistocene,Pre-Extinction,,1,G10,0.507,12.5,-16,,,8.5,23.8,2.8,,x
+41229-uncat,41229-uncat,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Hall's Cave,30.13,-99.54,,Pleistocene,21000,21000,,Pleistocene,Pre-Extinction,Extinct,2,A10,0.293,7.2,-11.3,,,15.3,42.4,2.8,,x
+41229-UR-AM--2731,41229-UR-AM--2731,Large,Carnivore,Ursus,americanus,Ursus,americanus,99949,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,15684,15684,,Pleistocene,Pre-Extinction,Survivor,1, H1,0.578,5.1,-17.8,,,16.3,44.6,2.7,,x
+41229-URSUS-11029,41229-URSUS-11029,Large,Carnivore,Ursus,americanus?,Ursus,americanus,99949,TMM,Hall's Cave,30.13,-99.54,NA,Holocene,6563,6563,,Holocene,Post-Extinction,Survivor,1,G11,0.586,3.7,-19.5,,,4.1,12.7,3.1,,x
+41229-URSUS-11754,41229-URSUS-11754,Large,Carnivore,Ursus,americanus?,Ursus,americanus,99949,TMM,Hall's Cave,30.13,-99.54,NA,Pleistocene,18984,18984,,Pleistocene,Pre-Extinction,Survivor,1,G12,0.5,3.7,-18.7,,,17.1,45.6,2.7,,x
+41CM3-13,41CM3-13,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Wunderlich Site,29.92,-98.35,Mid-Holocene,Holocene,4600,4600,,Holocene,Post-Extinction,Survivor,5,D3,0.573,5.6,-19.8,,,14.6,43,2.9,,x
+41CM3-93,41CM3-93,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Wunderlich Site,29.92,-98.35,Mid-Holocene,Holocene,4600,4600,,Holocene,Post-Extinction,Survivor,5,D2,0.525,6.7,-19.6,,,16,45.2,2.8,,x
+43067-101,43067-101,Large,Herbivore,Mammuthus,columbi,Mammuthus,sp.,10800000,TMM,Avenue Site,30.25,-97.75,,,,15000,,Pleistocene,Pre-Extinction,Extinct,5,C6,0.594,NA,NA,,,bdl,1.2,NA,,x
+43067-37,43067-37,Large,Herbivore,Mammuthus,,Mammuthus,sp.,10800000,TMM,Avenue Site,30.25,-97.75,Area B,,,15000,,Pleistocene,Pre-Extinction,Extinct,5,C3,0.563,NA,NA,,,bdl,1.4,NA,,x
+43133-1112,43133-1112,Large,Herbivore,Odocoileus,virginianus,Odocoileus,sp.,55509,TMM,Bering Sinkhole,29.76,-98.77,,Holocene,4950,4950,took mean of interval,Holocene,Post-Extinction,Survivor,2,A9,0.279,6.9,-19.8,,,11.4,35.5,3.1,,x
+43133-1413,43133-1413,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Bering Sinkhole,29.76,-98.77,,,,4950,,Holocene,Post-Extinction,Survivor,1,C2,0.559,7.2,-17.7,,,15,43.3,2.9,,x
+43133-1426,43133-1426,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Bering Sinkhole,29.76,-98.77,,,,4950,,Holocene,Post-Extinction,Survivor,1,E10,0.256,9.2,-11.6,,,15.5,42.5,2.7,,x
+43133-232,43133-232,Large,Carnivore,Canis,lupus,Canis,lupus,37000,TMM,Bering Sinkhole,29.76,-98.77,"NW Pit, level 2",,,4950,,Holocene,Post-Extinction,Survivor,1,F5,0.51,10.1,-10.4,,,13.6,40,2.9,,x
+43133-236,43133-236,Large,Carnivore,Canis,lupus,Canis,lupus,37000,TMM,Bering Sinkhole,29.76,-98.77,,,,4950,,Holocene,Post-Extinction,Survivor,1,F3,0.581,9.9,-9.5,,,16.1,43.4,2.7,,x
+43136-1,43136-1,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,NA,,,NA,NA,NA,NA,,,,,1,H10,0.556,7.7,-18.5,,,15.4,44.5,2.9,,x
+43202-43,43202-43,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Ranny Creek Cave,,,"Upper Part, 16"" - 36""",,,5000,,Holocene,Post-Extinction,Survivor,1,E11,0.355,8.1,-14.6,,,16.1,43.7,2.7,,x
+43202-5,43202-5,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Ranny Creek Cave,,,"General midden, amature backdirt piles",,,5000,,Holocene,Post-Extinction,Survivor,1,B10,0.555,7.5,-17.1,,,15.7,43.2,2.8,,x
+43202-73,43202-73,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Ranny Creek Cave,,,Lower part excavated summer 1930,,,5000,,Holocene,Post-Extinction,Survivor,1,E12,0.5,9.7,-19.2,,,13.7,44.7,3.3,,x
+43202-77,43202-77,Large,Carnivore,Canis,familiaris,Canis,familiaris/latrans,13406,TMM,Ranny Creek Cave,,,Lower part excavated summer 1930,,,5000,,Holocene,Post-Extinction,Survivor,1,D10,0.411,8.4,-19.1,,,13.6,44.5,3.3,,x
+43202-79,43202-79,Large,Carnivore,Canis,familiaris,Canis,familiaris/latrans,13406,TMM,Ranny Creek Cave,,,Lower part excavated summer 1930,,,5000,,Holocene,Post-Extinction,Survivor,1,F1,0.513,8.3,-19.1,,,14.8,45.3,3.1,,x
+43365-1,43365-1,Large,Carnivore,Ursus,americanus,Ursus,americanus,99949,TMM,Sanders Ranch Cave,,,,,,,,,,Survivor,4,B8,0.513,4.3,-20.1,,,15.5,44.2,2.9,,x
+43423-1,43423-1,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Mustang Branch,,,,,,,,,,,5,C8,0.573,5.8,-9.5,,,14.9,42.4,2.8,,x
+43481-4,43481-4,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,W. Culp Site,,,"Trench #2, 15"" - 52"" ",,,,,,,Survivor,1,F2,0.385,8.6,-12.3,,,15.7,44.6,2.8,,x
+45817-1,45817-1,Large,Herbivore,Bison,bison,Bison,bison,579255,TMM,77 Ranch,,,,,,,,,,Survivor,5,C4,0.536,6,-12.8,,,14,42,3,,x
+73087380-,73087380-,,NA,NA,,,,,TMM,NA,,,NA,,,,,,,,5,D7,0.543,8.7,-17.7,,,14,41.7,3,,x
+804-110,804-110,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Montell Shelter,29.5,-100,"Zone 2, trench 6, 6"" to 15""",Pleistocene,,21000,,Pleistocene,Pre-Extinction,Survivor,5,D10,0.578,5.4,-19.1,,,16,44.4,2.8,,x
+804-141,804-141,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Montell Shelter,29.5,-100,"Zone 1, trench 4, 0"" to 8""",Pleistocene,,21000,,Pleistocene,Pre-Extinction,Survivor,5,C1,0.575,5.3,-19.4,,,16.2,44.9,2.8,,x
+892-,892-,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Lubbock Lake,33.62,-101.89,,,,,,,,,5,D8,0.55,NA,NA,,,bdl,3.3,NA,,x
+892-218,892-218,Large,Herbivore,Bison,bison,Bison,bison,579255,TMM,Lubbock Lake,33.62,-101.89,Zone 5,NA,,7000,,Holocene,Post-Extinction,Survivor,5,A6,0.564,7.7,-8.1,,,14.5,43.1,3,,x
+892-256,892-256,Large,Carnivore,Canis,lupus,Canis,lupus,37000,TMM,Lubbock Lake,33.62,-101.89,?Shed 5,,,,,,,Survivor,5,F3,0.517,10.1,-11.9,,,13,38.8,3,,x
+892-270,892-270,Large,Herbivore,Bison,latifrans,Bison,latifrans,900000,TMM,Lubbock Lake,33.62,-101.89,Zone 5,,,7000,,Holocene,Post-Extinction,Extinct,5,H10,0.571,NA,-28,,,bdl,48.2,NA,question mark removed from antiguus,x
+892-484,892-484,Large,Herbivore,Bison,bison,Bison,bison,579255,TMM,Lubbock Lake,33.62,-101.89,,NA,,,,,,Survivor,5,C3,0.565,NA,-27.3,,,0.7,17,24.1,,x
+892-6CK-Bison-1,892-6CK-Bison-1,Large,Herbivore,Bison,antiguus,Bison,antiguus,579255,TMM,Lubbock Lake,33.62,-101.89,,NA,,,,,,Extinct,5,A7,0.525,7.6,-8.9,,,15.5,44.6,2.9,question mark removed from antiguus,x
+892-6CK-Bison-2,892-6CK-Bison-2,Large,Herbivore,Bison,antiguus,Bison,antiguus,579255,TMM,Lubbock Lake,33.62,-101.89,,NA,,,,,,Extinct,5,A12,0.516,7.9,-8.3,,,16.3,45.7,2.8,question mark removed from antiguus,x
+892-6K or 6A,892-6K or 6A,Large,Herbivore,Bison,antiguus,Bison,antiguus,579255,TMM,Lubbock Lake,33.62,-101.89,,NA,,,,,,Extinct,5,B4,0.551,6.3,-9,,,16.5,46.5,2.8,question mark removed from antiguus,x
+908 -3939,908 -3939,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill #116,,,,,,,Survivor,1,E2,0.602,9.8,-13.8,,,14.8,44,3,,x
+908-1080,908-1080,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,zone 5?6,Holocene,,7000,,Holocene,Post-Extinction,Survivor,2,A8,0.284,NA,NA,,,bdl,4.7,na,,x
+908-1089,908-1089,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5?6, Square C-D, 5-6",,,7000,,Holocene,Post-Extinction,Survivor,4,B9,0.552,5.6,-9.2,,,15.3,43.1,2.8,,x
+908-1164,908-1164,Small,Carnivore,Procyon,lotor,Procyon,lotor,5525,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5, Square D-E, 1-2, #506",,,7000,,Holocene,Post-Extinction,Survivor,4,G9,0.228,8.1,-18.2,,,7.4,28,3.8,,x
+908-118,908-118,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 5-6, #909",,,3000,,Holocene,Post-Extinction,Extinct,5,G12,0.572,11.4,-10.8,,,15.4,43.9,2.9,,x
+908-1204,908-1204,Small,Carnivore,Mephitis,mephitis,Mephitis,sp.,2085,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square D-E, 2-3, #203",,,3000,,Holocene,Post-Extinction,Survivor,4,F6,0.53,10,-15.7,,,15.2,44.6,2.9,,x
+908-121,908-121,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 5-6",,,3000,,Holocene,Post-Extinction,Survivor,5,F1,0.55,6.1,-19.5,,,15.3,43.9,2.9,,x
+908-131,908-131,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 6-7",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,A4,0.525,5.3,-20.7,,,15.8,45.6,2.9,,x
+908-1413,908-1413,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square E-F, 2-3",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,A10,0.562,5.8,-19.9,,,16.4,47,2.9,,x
+908-1438,908-1438,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"zone 5, square E-F, 2-3",NA,,7000,,Holocene,Post-Extinction,Survivor,1,F5,0.536,5.3,-19.7,,,15.8,45,2.8,,x
+908-1629,908-1629,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square E-F, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,A4,0.561,6.1,-19.3,,,15.2,43.4,2.9,,x
+908-1643,908-1643,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 1-2, #387",,,3000,,Holocene,Post-Extinction,Survivor,5,H5,0.104,9.9,-14.5,,,12,38.5,3.2,,x
+908-1672,908-1672,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5, Square A-G, 1-2",Holocene,,7000,,Holocene,Post-Extinction,Survivor,5,C8,0.564,7.5,-17.5,,,15.7,45.1,2.9,,x
+908-180,908-180,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 6-7",,,3000,,Holocene,Post-Extinction,Survivor,4,B1,0.558,5.8,-19.8,,,15.9,45,2.8,,x
+908-1879,908-1879,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 6-7",,,3000,,Holocene,Post-Extinction,Survivor,4,B6,0.552,7.7,-18.5,,,15.8,44.2,2.8,,x
+908-1937,908-1937,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 6-7",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,C4,0.531,5.3,-10,,,15.4,45.4,2.9,,x
+908-2003,908-2003,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,5,E8,0.523,6.4,-11.3,,,15.2,43.9,2.9,,x
+908-2017,908-2017,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,F10,0.514,6.5,-18.9,,,15.7,44.7,2.8,,x
+908-2113,908-2113,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 8-9",,,3000,,Holocene,Post-Extinction,Survivor,5,H3,0.521,11,-13.4,,,15.5,43.6,2.8,,x
+908-2139,908-2139,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 9-10",,,3000,,Holocene,Post-Extinction,Survivor,5,H2,0.519,6.5,-11.9,,,13.8,41.4,3,,x
+908-2140,908-2140,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 9-10",,,3000,,Holocene,Post-Extinction,Survivor,5,D9,0.52,6.4,-11.5,,,15.2,43.7,2.9,,x
+908-2142,908-2142,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 9-10",,,3000,,Holocene,Post-Extinction,Survivor,4,E2,0.542,6,-12.3,,,14.9,42.5,2.9,,x
+908-2181,908-2181,Large,Carnivore,Puma,concolor,Puma,concolor,51600,TMM,Kincaid Shelter,29.37,-99.47,"Zone Unknown, Square G-H, 4-5, #515",,,,,,,Survivor,5,F12,0.574,8.2,-18.2,,,15.1,42.5,2.8,,x
+908-2182,908-2182,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone Unknown, Square G-H, 4-5",,,,,,,Survivor,5,G6,0.519,6.9,-19.1,,,15.4,43.6,2.8,,x
+908-2184,908-2184,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone unknown, Square G-H, 4-5",NA,,,,,,,5,C12,0.583,5.2,-20.8,,,16.1,45.4,2.8,,x
+908-2220,908-2220,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,zone 6,,,3000,,Holocene,Post-Extinction,Survivor,1,E1,0.598,9.7,-10,,,15.7,43.2,2.8,,x
+908-2229,908-2229,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square I-J, 4-5",,,3000,,Holocene,Post-Extinction,Survivor,6,A12,0.513,5.8,-20.1,,,14.4,43.1,3,,x
+908-2249,908-2249,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square J-K, 3-4",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,B3,0.57,6.1,-19.8,,,15.8,45.5,2.9,,x
+908-2254,908-2254,Large,Carnivore,Puma,concolor,Puma,concolor,51600,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square J-K, 3-4, #314",,,3000,,Holocene,Post-Extinction,Survivor,4,A1,0.567,7.2,-20.6,,,9.7,31,3.2,,x
+908-2255,908-2255,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square J-K, 3-4",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,A3,0.571,5.3,-20.7,,,15.9,45.8,2.9,,x
+908-2280,908-2280,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square J-K, 4-5",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,C6,0.543,5.9,-17.9,,,9.1,26,2.9,,x
+908-2302,908-2302,Large,Herbivore,Proboscidea,,Proboscidea,,,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square A-B, 1-2",,,13000,,Pleistocene,Pre-Extinction,,5,D12,0.533,3.1,-25.6,,,6.4,30,4.7,,x
+908-2304,908-2304,Large,Herbivore,Paramylodon,harlani,Paramylodon,harlani,,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square A-B, 1-2",,,13000,,Pleistocene,Pre-Extinction,,6,A10,0.575,NA,NA,,,bdl,1.8,NA,,x
+908-2305,908-2305,Large,Herbivore,Mammuthus,,Mammuthus,sp.,10800000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 4, Square A-B, 1-2",,,11000,,Holocene,Pre-Extinction,Extinct,5,F4,0.462,2.3,-25,,,7.1,29.6,4.2,,x
+908-2310,908-2310,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square A-B, 1-2",,,13000,,Pleistocene,Pre-Extinction,Extinct,4,F3,0.534,8.1,-20.2,,,16.2,46.3,2.9,,x
+908-2316,908-2316,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square A-B, 2-3",,,13000,,Pleistocene,Pre-Extinction,Survivor,4,G2,0.527,NA,-27.7,,,bdl,38.3,NA,,x
+908-2334,908-2334,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square A-B, 3-4",,,13000,,Pleistocene,Pre-Extinction,Extinct,5,G5,0.506,NA,NA,,,bdl,1.8,NA,,x
+908-2362,908-2362,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Kincaid Shelter,29.37,-99.47,material previously numbered -3865,Pleistocene,,,,,,Extinct,2,B3,0.292,NA,-27.7,,,bdl,37.5,na,,x
+908-2364,908-2364,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square B-C, 2-3",,,13000,,Pleistocene,Pre-Extinction,Extinct,4,G1,0.514,NA,NA,,,bdl,2.1,NA,,x
+908-2391,908-2391,Large,Herbivore,Camelops,,Camelops,sp.,1100000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square B-C, 2-3",,,13000,,Pleistocene,Pre-Extinction,Extinct,5,F11,0.37,NA,-27.9,,,bdl,22,NA,,x
+908-2393,908-2393,Large,Herbivore,Camelops,,Camelops,sp.,1100000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square B-C, 2-3",,,13000,,Pleistocene,Pre-Extinction,Extinct,6,B10,0.14,NA,NA,,,bdl,5.2,NA,,x
+908-2398,908-2398,Large,Herbivore,Equus,,Equus,sp.,400000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square B-C, 2-3",,,13000,,Pleistocene,Pre-Extinction,Extinct,5,C2,0.57,NA,NA,,,bdl,2.2,NA,,x
+908-2418,908-2418,Large,Carnivore,Panthera,leo atrox,Panthera,leo atrox,433200,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square B-C, 3-4",,,13000,,Pleistocene,Pre-Extinction,Extinct,5,E11,0.529,NA,NA,,,bdl,2,NA,,x
+908-2428,908-2428,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square A-G, 1-2",,,13000,,Pleistocene,Pre-Extinction,Extinct,4,G10,0.344,NA,-27.8,,,bdl,40.5,NA,,x
+908-2429,908-2429,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square A-G, 1-2",,,13000,,Pleistocene,Pre-Extinction,Extinct,4,D5,0.545,NA,NA,,,bdl,3.2,NA,,x
+908-2430,908-2430,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 3, Square A-G, 1-2",,,13000,,Pleistocene,Pre-Extinction,Extinct,4,A6,0.537,NA,-28.1,,,bdl,49.3,NA,,x
+908-2442,908-2442,Small,Carnivore,Procyon,lotor,Procyon,lotor,5525,TMM,Kincaid Shelter,29.37,-99.47,"Zone 4, Square A-G, 5-6",,,11000,,Holocene,Pre-Extinction,Survivor,4,D10,0.524,9.2,-18.4,,,14.4,44.7,3.1,,x
+908-2443,908-2443,Large,Herbivore,Proboscidea,,Proboscidea,,,TMM,Kincaid Shelter,29.37,-99.47,"Zone 4, Square C-D, 1-2",,,11000,,Holocene,Pre-Extinction,,5,G2,0.528,NA,NA,,,bdl,1.5,NA,,x
+908-248,908-248,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,B5,0.567,6.1,-11.3,,,16.2,45.8,2.8,,x
+908-250,908-250,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,E9,0.545,6.9,-11.8,,,14.8,44,3,,x
+908-259,908-259,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,D11,0.527,5.5,-10,,,15.4,44.5,2.9,,x
+908-263,908-263,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,6,A11,0.532,6.9,-18.8,,,14.1,42.1,3,,x
+908-2899,908-2899,,NA,NA,,,,,TMM,NA,,,NA,,,,,,,,4,B7,0.584,NA,NA,,,bdl,3.3,NA,,x
+908-3255,908-3255,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square E-F, 8-9",,,3000,,Holocene,Post-Extinction,Survivor,4,E10,0.521,5.4,-19.8,,,16.1,45.6,2.8,,x
+908-3264,908-3264,Small,Carnivore,Mephitis,mephitis,Mephitis,sp.,2085,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square H-I, 4-5, #377",,,3000,,Holocene,Post-Extinction,Survivor,6,B1,0.555,9.3,-15.2,,,14.6,42.3,2.9,,x
+908-3278,908-3278,Small,Carnivore,Taxidea,taxus,Taxidea,,7108,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square H-I, 4-5, #820",,,3000,,Holocene,Post-Extinction,Survivor,4,D3,0.571,9,-17,,,15.8,45.4,2.9,,x
+908-330,908-330,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 8-9",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,C5,0.572,7.3,-17.9,,,15.4,44.4,2.9,,x
+908-3306,908-3306,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"zone 5, squareH-I, 4- 5",NA,,,,,,,1,F6,0.589,7.1,-19.4,,,15.1,43.8,2.9,,x
+908-3310,908-3310,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5, Square H-I, 4-5, #238",,,7000,,Holocene,Post-Extinction,Survivor,4,A9,0.55,8.6,-15.9,,,10.9,33.2,3,,x
+908-3337,908-3337,Small,Carnivore,Taxidea,taxus,Taxidea,,7108,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5, Square H-I, 4-5, #241",,,7000,,Holocene,Post-Extinction,Survivor,4,G6,0.591,9.1,-15.8,,,14.8,42.7,2.9,,x
+908-3348,908-3348,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square C-D, 8-9, #391",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,C2,0.624,5.8,-20.4,,,15.3,45,2.9,question mark removed ,x
+908-335,908-335,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 8-9",,,3000,,Holocene,Post-Extinction,Survivor,5,F9,0.579,6,-19.9,,,15.4,43.8,2.8,,x
+908-3364,908-3364,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square C-D, 8-9",,,3000,,Holocene,Post-Extinction,Survivor,5,F6,0.554,5.5,-10,,,15.8,43.5,2.8,,x
+908-341,908-341,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5, Square A-B, 8-9",,,7000,,Holocene,Post-Extinction,Survivor,6,A5,0.564,11.4,-10.1,,,14.6,42.9,2.9,,x
+908-343,908-343,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,NA,NA,,,,,,,1,F3,0.537,5.4,-10.8,,,14.9,44.4,3,,x
+908-3432,908-3432,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square C-D, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,E12,0.6,6.5,-19.3,,,15.1,43.9,2.9,,x
+908-3438,908-3438,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5?6, Square C-D, 7-8",,,7000,,Holocene,Post-Extinction,Survivor,6,B2,0.519,6.7,-9.9,,,13.9,42.1,3,,x
+908-3439,908-3439,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5?6, Square C-D, 7-8",,,7000,,Holocene,Post-Extinction,Survivor,5,H12,0.529,6,-19.4,,,14.9,43.7,2.9,,x
+908-3465,908-3465,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Test Pit 4, #514",,,,,,,Survivor,4,D12,0.537,10.5,-8.3,,,15.7,45.4,2.9,,x
+908-3469,908-3469,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Pleistocene - Rancholabrean,Holocene,,,,,,,2,B4,0.295,4.7,-19.5,,,15.7,46.2,2.9,,x
+908-347,908-347,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 10-11, #319",,,3000,,Holocene,Post-Extinction,Survivor,6,A8,0.541,10.1,-10.4,,,14.6,43.6,3,,x
+908-3474,908-3474,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,Test pit 5,NA,,,,,,,5,A11,0.544,7.2,-11.2,,,14.6,43.8,3,,x
+908-3476,908-3476,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,"ZONE 5, SQUARE A-B, 0-1",,,7000,,Holocene,Post-Extinction,Survivor,4,E5,0.55,10,-17.4,,,3.5,16.7,4.8,,x
+908-3521,908-3521,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5, Square A-B, 0-1, #397",,,7000,,Holocene,Post-Extinction,Survivor,4,D1,0.511,12.6,-15.1,,,8.2,26.3,3.2,,x
+908-3532,908-3532,,NA,NA,,,,,TMM,NA,,,NA,,,,,,,,4,E3,0.553,6.9,-17,,,15.2,45.5,3,,x
+908-3591,908-3591,Large,Carnivore,Canis,sp.,Canis,sp.,37000,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5?6, Square C-D, 1-2",,,7000,,Holocene,Post-Extinction,Survivor,4,G8,0.533,10.4,-15.8,,,10.7,37.9,3.5,,x
+908-360,908-360,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 10-11",,,3000,,Holocene,Post-Extinction,Survivor,4,A3,0.549,5.6,-19.9,,,13.5,40.4,3,,x
+908-3614,908-3614,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5?6, Square C-D, 5-6",Holocene,,7000,,Holocene,Post-Extinction,Survivor,5,A2,0.555,5.8,-20.4,,,16.2,45.8,2.8,,x
+908-3622,908-3622,Small,Carnivore,Vulpes,sp.,Vulpes,sp.,4132,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square E-F, 2-3",,,3000,,Holocene,Post-Extinction,Survivor,4,F9,0.596,NA,NA,,,bdl,1.3,NA,,x
+908-3627,908-3627,Large,Carnivore,Canis,sp.,Canis,sp.,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square E-F, 2-3",,,3000,,Holocene,Post-Extinction,Survivor,5,G1,0.51,7.1,-16,,,15.1,42.8,2.8,,x
+908-3689,908-3689,Large,Herbivore,Antilocapra,,Antilocapra,sp.,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square E-F, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,G4,0.523,6.1,-13.4,,,14.2,40.3,2.8,,x
+908-3745,908-3745,Large,Herbivore,Antilocapra,,Antilocapra,sp.,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 6-7",,,3000,,Holocene,Post-Extinction,Survivor,4,D8,0.54,7,-19.9,,,15.8,44.7,2.8,,x
+908-382,908-382,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"zone 6, square G-H, 5-6",,,3000,,Holocene,Post-Extinction,Survivor,1,D12,0.506,9.6,-10.2,,,15.5,43.4,2.8,,x
+908-3829,908-3829,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5?6, Square C-D, 5-6",Holocene,,7000,,Holocene,Post-Extinction,Survivor,5,A9,0.532,7.4,-19,,,15.7,45.8,2.9,,x
+908-383,908-383,Large,Carnivore,Canis,familiaris,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square G-H, 5-6",,,3000,,Holocene,Post-Extinction,Survivor,4,E11,0.542,7.8,-14.5,,,14.3,44.5,3.1,,x
+908-3832,908-3832,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-B, 1-2",,,3000,,Holocene,Post-Extinction,Survivor,5,H8,0.525,6.9,-17.7,,,15.6,43.7,2.8,,x
+908-3833,908-3833,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Pleistocene - Rancholabrean,Holocene,,,,,,,2,B5,0.297,7.9,-19,,,15.8,44.8,2.8,,x
+908-3837,908-3837,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square E-F, 3-4",,,3000,,Holocene,Post-Extinction,Survivor,4,E8,0.543,7.8,-18.3,,,15,43.6,2.9,,x
+908-3839,908-3839,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square C-D, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,5,C9,0.556,6.1,-17.1,,,15.5,44,2.8,,x
+908-3841,908-3841,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,Test Pit 5,,,,,,,,5,E1,0.557,5.8,-8.5,,,15.1,43.8,2.9,,x
+908-3850,908-3850,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square A-G, 8-9",,,3000,,Holocene,Post-Extinction,Survivor,5,G7,0.593,6.2,-11.9,,,14.6,41.7,2.8,,x
+908-3898,908-3898,Small,Carnivore,Taxidea,,Taxidea,,7108,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #505",,,,,,,Survivor,6,A9,0.549,11.7,-10.9,,,14.5,42.8,3,,x
+908-3899,908-3899,Small,Carnivore,Taxidea,,Taxidea,,7108,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #178",,,,,,,Survivor,4,F5,0.527,11.9,-15.2,,,15.9,45.4,2.9,,x
+908-3901,908-3901,Small,Carnivore,Taxidea,,Taxidea,,7108,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #172",,,,,,,Survivor,5,D6,0.575,9.4,-15.4,,,15.6,44,2.8,,x
+908-3917,908-3917,Small,Carnivore,Taxidea,,Taxidea,,7108,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #166",,,,,,,Survivor,4,F8,0.507,12.8,-15.9,,,14.2,44,3.1,,x
+908-3918,908-3918,Small,Carnivore,Taxidea,,Taxidea,,7108,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #8",,,,,,,Survivor,4,D7,0.538,10.5,-15.6,,,15.8,44.7,2.8,,x
+908-3922,908-3922,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill,,,,,,,,4,F2,0.577,7.5,-15.9,,,13.3,43.6,3.3,,x
+908-3924,908-3924,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #501",,,,,,,,4,B2,0.56,9.5,-19.4,,,13.6,42.1,3.1,,x
+908-3925,908-3925,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"prev. numbered 2, undisturbed fill",Pleistocene,,,,,,,2,B6,0.281,8,-18.1,,,16.4,45.4,2.8,,x
+908-3931,908-3931,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,disturbed fill #170,,,,,,,Survivor,6,B4,0.529,10.1,-12.8,,,14.8,43.6,2.9,,x
+908-3938,908-3938,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,Disturbed fill,,,,,,,Survivor,1,B8,0.579,10.1,-12,,,15.3,43.3,2.8,,x
+908-3940,908-3940,Small,Carnivore,Procyon,lotor,Procyon,lotor,5525,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #188",,,,,,,Survivor,4,D6,0.547,12.7,-15.5,,,13.4,42.5,3.2,,x
+908-3943,908-3943,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill,Holocene,,,,,,,5,A1,0.582,6.8,-19.9,,,15.4,44.3,2.9,,x
+908-3945,908-3945,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill,Holocene,,,,,,,5,D1,0.533,5.9,-19.5,,,16.8,46.7,2.8,,x
+908-3950,908-3950,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill,Holocene,,,,,,,5,B7,0.522,7.9,-18.5,,,16.2,46.2,2.8,,x
+908-3953,908-3953,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,disturbed fill,NA,,,,,,,1,F7,0.515,6.2,-19.9,,,16.1,45.6,2.8,,x
+908-3959,908-3959,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill,,,,,,,,4,F12,0.541,8.7,-16.8,,,14.3,43.6,3,,x
+908-3987,908-3987,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,,,,,,,,,4,A11,0.515,6.4,-19.4,,,15.4,43.3,2.8,,x
+908-3990,908-3990,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"partially charred, previously numbered -3",NA,,,,,,,2,B2,0.283,6.1,-19.6,,,16.8,46.8,2.8,,x
+908-3991,908-3991,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,previously numbered -3,NA,,,,,,,2,B1,0.297,6.3,-18.4,,,17.1,47.2,2.8,,x
+908-3992,908-3992,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Pleistocene - Rancholabrean,NA,,,,,,,2,A12,0.29,6,-19.8,,,15.8,46.4,2.9,,x
+908-3994,908-3994,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"disturbed fill, prev numbered 3",NA,,,,,,,2,A7,0.286,6.9,-19.3,,,17.3,47.4,2.7,,x
+908-3997,908-3997,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill,,,,,,,,5,D1,0.589,NA,-18.7,,,0.6,5.8,9,,x
+908-403,908-403,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5, Square G-H, 5-6",,,7000,,Holocene,Post-Extinction,Survivor,4,E7,0.536,8.1,-18.1,,,15.1,44.6,3,,x
+908-4113,908-4113,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,NA,NA,,7000,,Holocene,Post-Extinction,Survivor,1,F9,0.571,6.5,-19.9,,,15,44.8,3,,x
+908-4179,908-4179,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,disturbed fill #169,,,,,,,Survivor,5,E12,0.589,7.9,-17.6,,,15.8,44.1,2.8,,x
+908-4180,908-4180,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,disturbed fill #189,,,,,,,Survivor,4,C12,0.522,8,-16.8,,,15.4,44.7,2.9,,x
+908-4181,908-4181,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,disturbed fill #173,,,,,,,Survivor,4,A7,0.58,10.6,-15.3,,,13.7,44.4,3.2,,x
+908-4182,908-4182,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #174",,,,,,,Survivor,4,G7,0.398,10.1,-15.1,,,12.2,39.5,3.2,,x
+908-4184,908-4184,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Kincaid Shelter,29.37,-99.47,disturbed fill #183,,,,,,,Survivor,6,A4,0.525,8.3,-16.4,,,15.2,44,2.9,,x
+908-4199,908-4199,Large,Herbivore,Antilocapra,,Antilocapra,sp.,46083,TMM,Kincaid Shelter,29.37,-99.47,NA,NA,,,,,,Survivor,1,F8,0.6,8.7,-18.5,,,15.6,44.6,2.9,,x
+908-4201,908-4201,Large,Herbivore,Antilocapra,,Antilocapra,sp.,46083,TMM,Kincaid Shelter,29.37,-99.47,previously numbered -3,NA,,,,,,Survivor,2,B7,0.292,6.4,-18.7,,,17,47.2,2.8,,x
+908-4253,908-4253,Small,Carnivore,Mephitis,mephitis,Mephitis,sp.,2085,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #388",,,,,,,,4,G5,0.514,7.5,-16.5,,,14.4,41.8,2.9,,x
+908-4257,908-4257,Small,Carnivore,Mephitis,mephitis,Mephitis,sp.,2085,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #54",,,,,,,,4,E1,0.541,7.1,-13.9,,,15.5,44.6,2.9,,x
+908-4262,908-4262,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill #353,,,,,,,Survivor,1,C3,0.499,7.1,-16.1,,,15.2,43.8,2.9,,x
+908-4267,908-4267,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,#370,,,,,,,Survivor,4,A10,0.551,NA,NA,,,0.4,5.1,13.1,,x
+908-4282,908-4282,Large,Carnivore,Canis,sp.,Canis,sp.,37000,TMM,Kincaid Shelter,29.37,-99.47,#266,,,,,,,,4,C7,0.547,11.5,-11.1,,,15.2,43.9,2.9,,x
+908-4283,908-4283,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,#195,,,,,,,Survivor,1,C10,0.545,10,-12.7,,,15.1,43,2.8,,x
+908-4291,908-4291,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill #349,,,,,,,Survivor,1,B11,0.533,8.4,-13.6,,,15.5,43,2.8,,x
+908-4294,908-4294,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,Disturbed fill; #288,,,,,,,Survivor,1,C6,0.523,9.2,-11.7,,,15.2,42.7,2.8,,x
+908-4297,908-4297,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,ZONE 6,,,3000,,Holocene,Post-Extinction,Survivor,5,D2,0.558,7.7,-16.9,,,14.5,43,3,,x
+908-4300,908-4300,Large,Carnivore,Canis,sp.,Canis,sp.,,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill,,,,,,,,5,D5,0.423,NA,NA,,,0.4,5.1,12.9,,x
+908-4308,908-4308,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill #282,,,,,,,Survivor,1,B5,0.532,8.9,-13.7,,,15.4,43.7,2.8,,x
+908-4309,908-4309,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,disturbed fill #347,,,,,,,Survivor,1,E3,0.515,10.3,-14.1,,,14.5,43.4,3,,x
+908-4311,908-4311,Large,Carnivore,Canis,sp.,Canis,sp.,13406,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #287",,,,,,,,5,C12,0.168,9.8,-16.5,,,12,44.1,3.7,,x
+908-4324,908-4324,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill #1,,,,,,,Survivor,1,C9,0.533,9.7,-15.1,,,14.6,43.3,3,,x
+908-4344,908-4344,Small,Carnivore,Procyon,lotor,Procyon,lotor,5525,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #396",,,,,,,Survivor,4,C10,0.538,9.8,-17.1,,,10.8,33.9,3.1,,x
+908-4348,908-4348,Small,Carnivore,Procyon,lotor,Procyon,lotor,5525,TMM,Kincaid Shelter,29.37,-99.47,"Disturbed Fill, #186",,,,,,,Survivor,4,C3,0.575,6.7,-21.3,,,9.1,35.3,3.9,,x
+908-4353,908-4353,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,Disturbed Fill,,,,,,,,4,A2,0.561,6.5,-11.5,,,12.9,37.1,2.9,,x
+908-437,908-437,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square G-H, 6-7",,,3000,,Holocene,Post-Extinction,Survivor,4,C5,0.517,7.8,-13.8,,,15.2,44.2,2.9,,x
+908-4469,908-4469,Large,Carnivore,Canis,familiaris/latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,no zone information on tag of specimen,,,,,,,Survivor,1,C5,0.526,9.9,-16.5,,,14.4,41,2.8,,x
+908-4521,908-4521,Large,Carnivore,Canis,sp.,Canis,sp.,13406,TMM,Kincaid Shelter,29.37,-99.47,#522,,,,,,,,5,C7,0.584,9.6,-13,,,13.4,42.2,3.1,,x
+908-4522,908-4522,Large,Carnivore,Canis,sp.,Canis,sp.,37000,TMM,Kincaid Shelter,29.37,-99.47,#518,,,,,,,,4,F11,0.524,10.3,-10.6,,,15.5,45.2,2.9,,x
+908-500,908-500,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square G-H, 7-8",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,C11,0.524,5.5,-9.3,,,15.7,45.3,2.9,,x
+908-500,908-500,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square G-H, 7-8",Holocene,,3000,,Holocene,Post-Extinction,Survivor,1,F4,0.581,5.7,-8.7,,,15.3,45.2,3,,x
+908-565,908-565,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square G-H, 8-9",,,3000,,Holocene,Post-Extinction,Survivor,5,E2,0.542,6.6,-9.6,,,15.3,43.8,2.9,,x
+908-571,908-571,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square G-H, 8-9",,,3000,,Holocene,Post-Extinction,Survivor,4,B11,0.59,6.3,-13,,,15.5,45.3,2.9,,x
+908-593,908-593,Small,Carnivore,Taxidea,taxus,Taxidea,,7108,TMM,Kincaid Shelter,29.37,-99.47,"Zone Unknown, Square B-C, 1-2, #152",,,,,,,Survivor,5,E4,0.584,9.8,-13,,,15.6,43.7,2.8,,x
+908-709,908-709,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 5-6",,,3000,,Holocene,Post-Extinction,Survivor,5,E9,0.56,6.6,-17.6,,,15.5,43.7,2.8,,x
+908-816,908-816,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,5,H4,0.55,5.1,-9.3,,,15,43,2.9,,x
+908-818,908-818,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square, B-C, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,6,B7,0.578,6.1,-19.9,,,14.6,43.5,3,,x
+908-820,908-820,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8, #913",,,3000,,Holocene,Post-Extinction,Survivor,4,A5,0.568,8.8,-13,,,14.9,43.2,2.9,,x
+908-825,908-825,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,C10,0.55,6,-19.8,,,14.4,43.5,3,,x
+908-829,908-829,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,B3,0.548,5.7,-10.9,,,14.9,42.5,2.8,,x
+908-831,908-831,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,5,H6,0.594,5.3,-10.8,,,15.3,44.1,2.9,,x
+908-832,908-832,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8",Holocene,,3000,,Holocene,Post-Extinction,Survivor,5,A8,0.57,5.7,-9.7,,,14.7,45.4,3.1,,x
+908-833,908-833,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,4,C11,0.516,6.2,-19.7,,,15.8,44.7,2.8,,x
+908-834,908-834,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,6,A6,0.553,5.3,-9.6,,,14.1,42.3,3,,x
+908-835,908-835,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 7-8",,,3000,,Holocene,Post-Extinction,Survivor,5,D4,0.508,5.5,-19.9,,,14.8,43.4,2.9,,x
+908-858,908-858,Small,Carnivore,Mephitis,mephitis,Mephitis,sp.,2085,TMM,Kincaid Shelter,29.37,-99.47,"Zone 6, Square B-C, 8-9, #208",,,3000,,Holocene,Post-Extinction,Survivor,4,G3,0.53,11,-17.2,,,13.9,42.5,3,,x
+908-938,908-938,Large,Herbivore,Antilocapra,americana,Antilocapra,americana,46083,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5?6, Square C-D, 1-2, #227",,,7000,,Holocene,Post-Extinction,Survivor,6,B9,0.576,NA,NA,,,0.9,4.7,5.1,,x
+908-989,908-989,Small,Carnivore,Mephitis,mephitis,Mephitis,sp.,2085,TMM,Kincaid Shelter,29.37,-99.47,"Zone 5, Square C-D, 4-5, #205",,,7000,,Holocene,Post-Extinction,Survivor,4,B4,0.512,9.3,-12.6,,,15.3,43.7,2.9,,x
+933-1625,933-1625,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Survivor,1,E6,0.439,10.7,-16.5,,,10.7,37.4,3.5,,x
+933-1907B,933-1907B,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Friesenhahn Cave,29.62,-98.37,NA,Pleistocene,21000,18500,From Toomey: 21ka,Pleistocene,Pre-Extinction,Extinct,1,F10,0.1,NA,-19.5,,,9.4,40.2,4.3,,x
+933-2084,933-2084,Large,Carnivore,Homotherium,serum,Homotherium,sp.,189000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,4,B10,0.521,NA,NA,,,bdl,2.2,NA,,x
+933-2110,933-2110,Large,Carnivore,Homotherium,serum,Homotherium,sp.,189000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,"used midpoint of age from Koch, 2004",Pleistocene,Pre-Extinction,Extinct,5,G4,0.545,NA,-28.3,,,bdl,28.8,NA,,x
+933-2149,933-2149,Large,Carnivore,Homotherium,serum,Homotherium,sp.,189000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,H11,0.586,NA,NA,,,0.3,2.9,10,,x
+933-2156,933-2156,Large,Carnivore,Arctodus,simus,Arctodus,simus,720000,TMM,Friesenhahn Cave,29.62,-98.37,NA,Pleistocene,21000,18500,From Toomey: 21ka,Pleistocene,Pre-Extinction,Extinct,1,F11,0.477,7.6,-17.3,,,8.8,30.9,3.5,,x
+933-2201,933-2201,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,4,A12,0.511,12.9,-11.3,,,5.9,18.7,3.2,,x
+933-2206,933-2206,Large,Carnivore,Smilodon,floridanus,Smilodon,fatalis,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,6,B8,0.51,NA,NA,,,bdl,2.1,NA,,x
+933-2297,933-2297,Large,Carnivore,Homotherium,serum,Homotherium,sp.,189000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,4,G11,0.523,9.8,-22,,,4.6,28.3,6.2,,x
+933-2506,933-2506,Large,Carnivore,Smilodon,floridanus,Smilodon,fatalis,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,H1,0.569,NA,NA,,,bdl,2.2,NA,,x
+933-2544,933-2544,Large,Carnivore,Ursus,americanus,Ursus,americanus,99949,TMM,Friesenhahn Cave,29.62,-98.37,NA,Pleistocene,21000,18500,From Toomey: 21ka,Pleistocene,Pre-Extinction,Survivor,1,B6,0.517,NA,NA,,,bdl,1.8,na,,x
+933-2690,933-2690,Large,Carnivore,Smilodon,floridanus,Smilodon,fatalis,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,G11,0.584,NA,NA,,,bdl,2.4,NA,,x
+933-2691,933-2691,Large,Carnivore,Smilodon,floridanus,Smilodon,fatalis,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,D3,0.125,NA,-27.6,,,bdl,26.2,NA,,x
+933-2963,933-2963,Large,Carnivore,Arctodus,simus,Arctodus,simus,720000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,F7,0.49,9.7,-16.5,,,9.3,31.2,3.3,,x
+933-3013,933-3013,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Friesenhahn Cave,29.62,-98.37,NA,Pleistocene,21000,18500,From Toomey: 21ka,Pleistocene,Pre-Extinction,Survivor,1,F12,0.35,8,-20.8,,,6.6,25.6,3.9,,x
+933-326,933-326,Large,Carnivore,Canis,dirus,Canis,dirus,65000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,E3,0.577,12.7,-11.2,,,14.1,43.8,3.1,,x
+933-3339,933-3339,Large,Carnivore,Smilodon,floridanus,Smilodon,fatalis,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,H9,0.56,NA,NA,,,bdl,1,NA,,x
+933-3387,933-3387,Large,Carnivore,Homotherium,serum,Homotherium,sp.,189000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,6,A3,0.51,14.3,-8.5,,,11.1,35.7,3.2,,x
+933-3499,933-3499,Large,Carnivore,Ursus,americanus,Ursus,americanus,99949,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Survivor,5,F10,0.565,NA,-6.1,,,bdl,6.4,NA,,x
+933-3916,933-3916,Small,Carnivore,Lynx,rufus,Lynx,sp.,17950,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Survivor,4,F7,0.558,8.5,-15,,,9.7,27.8,2.9,,x
+933-3934,933-3934,Large,Carnivore,Homotherium,serum,Homotherium,sp.,189000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,G8,0.538,NA,NA,,,bdl,1.3,NA,,x
+933-3955,933-3955,Large,Carnivore,Smilodon,floridanus,Smilodon,fatalis,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,G3,0.512,11.5,-18.6,,,6.2,23.1,3.7,,x
+933-3962,933-3962,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Friesenhahn Cave,29.62,-98.37,Late Pleistocene,Pleistocene,21000,18500,From Toomey: 21ka,Pleistocene,Pre-Extinction,Survivor,5,D11,0.573,6.1,-20.9,,,15.4,44.4,2.9,,x
+933-4494,933-4494,Small,Carnivore,Mephitis,mephitis,Mephitis,sp.,2085,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Survivor,4,F1,0.548,7.5,-15.6,,,13.9,43.7,3.2,,x
+933-458,933-458,Large,Herbivore,Odocoileus,sp.,Odocoileus,sp.,55509,TMM,Friesenhahn Cave,29.62,-98.37,"20,176 to 22,630",,,18500,,Pleistocene,Pre-Extinction,Survivor,4,C1,0.499,7.8,-20.1,,,7.6,26.7,3.5,,x
+933-5704,933-5704,Large,Carnivore,Smilodon,floridanus,Smilodon,fatalis,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,6,B6,0.575,13.5,-8.8,,,8.9,27.7,3.1,,x
+933-670,933-670,Large,Carnivore,Canis,latrans,Canis,familiaris/latrans,13406,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Survivor,1,E5,0.274,10.1,-16.2,,,7.3,24.9,3.4,,x
+933-898,933-898,Large,Carnivore,Smilodon,sp.,Smilodon,sp.,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,E6,0.514,NA,NA,,,bdl,1.2,NA,,x
+933-898,933-898,Large,Carnivore,Smilodon,sp.,Smilodon,sp.,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,,Pleistocene,Pre-Extinction,Extinct,5,E6,0.514,NA,NA,,,bdl,1.2,NA,,x
+937-492,937-492,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,,,,,NA,,,,,,,5,B6,0.589,NA,-28.2,,,bdl,33.3,na,,x
+937-589,937-589,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,,,,Brackwater draw,NA,,,,,,,5,B5,0.539,NA,-27.8,,,bdl,6.4,na,,x
+"BDM-#4a,b","BDM-#4a,b",Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-6.5,0.3,24.2,,,0,,Koch.2004
+BDM-814Aa,BDM-814Aa,Large,Herbivore,Bison,sp.,Bison,sp.,579255,BDM,Blackwater Draw,34.23,-103.42,,,,9000,rough estimate based on the fact that it is Holocene,Holocene,Post-Extinction,Survivor,,,,,-6,0.8,24.8,,,0,,Koch.2004
+BDM-9789a,BDM-9789a,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-5.7,1.1,25.2,,,0,,Koch.2004
+BDM-9816a,BDM-9816a,Large,Herbivore,Bison,bison,Bison,bison,579255,BDM,Blackwater Draw,34.23,-103.42,,,,9000,rough estimate based on the fact that it is Holocene,Holocene,Post-Extinction,Survivor,,,,,-8.1,-1.3,26.4,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Bison,bison,Bison,bison,579255,BDM,Blackwater Draw,34.23,-103.42,,,,9000,rough estimate based on the fact that it is Holocene,Holocene,Post-Extinction,Survivor,,,,,-6.5,0.3,26.8,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Bison,sp.,Bison,sp.,579255,BDM,Blackwater Draw,34.23,-103.42,,,,9000,rough estimate based on the fact that it is Holocene,Holocene,Post-Extinction,Survivor,,,,,-5,1.8,27.3,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Bison,sp.,Bison,sp.,579255,BDM,Blackwater Draw,34.23,-103.42,,,,9000,rough estimate based on the fact that it is Holocene,Holocene,Post-Extinction,Survivor,,,,,-5.9,0.9,25.6,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Bison,sp.,Bison,sp.,579255,BDM,Blackwater Draw,34.23,-103.42,,,,9000,rough estimate based on the fact that it is Holocene,Holocene,Post-Extinction,Survivor,,,,,-8.7,-1.9,20.8,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Bison,sp.,Bison,sp.,579255,BDM,Blackwater Draw,34.23,-103.42,,,,9000,rough estimate based on the fact that it is Holocene,Holocene,Post-Extinction,Survivor,,,,,-5.9,0.9,29.7,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Bison,sp.,Bison,sp.,579255,BDM,Blackwater Draw,34.23,-103.42,,,,9000,rough estimate based on the fact that it is Holocene,Holocene,Post-Extinction,Survivor,,,,,-7.6,-0.8,28.1,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-8.1,-1.3,28,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-6.4,0.4,26.2,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-8.7,-1.9,29.9,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-7.6,-0.8,27.6,,,0,,Koch.2004
+BDM-naa,BDM-naa,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-8.4,-1.6,29.8,,,0,,Koch.2004
+MSU-1671,MSU-1671,Large,Herbivore,Equus,sp.,Equus,sp.,400000,MSU,Howard Ranch,34.37,-99.75,,,,16775,,Pleistocene,Pre-Extinction,Extinct,,,,,-14.31,-7.51,25.49,,,0,,Koch.2004
+MSU-1672,MSU-1672,Large,Herbivore,Equus,sp.,Equus,sp.,400000,MSU,Howard Ranch,34.37,-99.75,,,,16775,,Pleistocene,Pre-Extinction,Extinct,,,,,-6.58,0.22,30.31,,,0,,Koch.2004
+MSU-1984,MSU-1984,Large,Herbivore,Equus,sp.,Equus,sp.,400000,MSU,Easely.Ranch,33.98,-99.85,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.86,-4.06,28.29,,,0,,Koch.2004
+MSU-1995,MSU-1995,Large,Herbivore,Equus,sp.,Equus,sp.,400000,MSU,Easely.Ranch,33.98,-99.85,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.06,-1.26,28.65,,,0,,Koch.2004
+MSU-2000,MSU-2000,Large,Herbivore,Equus,sp.,Equus,sp.,400000,MSU,Easely.Ranch,33.98,-99.85,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.93,-3.13,29.22,,,0,,Koch.2004
+MSU-2036,MSU-2036,Large,Herbivore,Equus,sp.,Equus,sp.,400000,MSU,Quitaque Creek,,,,,,40000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.17,-1.37,27.05,,,0,,Koch.2004
+MSU-2720,MSU-2720,Large,Herbivore,Equus,sp.,Equus,sp.,400000,MSU,Howard Ranch,34.37,-99.75,,,,16775,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.39,-2.59,29.91,,,0,,Koch.2004
+MSU-2819,MSU-2819,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Quitaque Creek,,,,,,40000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.32,-2.52,27.7,,,0,,Koch.2004
+MSU-2825,MSU-2825,Large,Herbivore,Bison,sp.,Bison,sp.,579255,MSU,Howard Ranch,34.37,-99.75,,,,16775,,Pleistocene,Pre-Extinction,Extinct,,,,,-4.01,2.79,30.83,,,0,,Koch.2004
+MSU-3016,MSU-3016,Large,Herbivore,Equus,sp.,Equus,sp.,400000,MSU,Howard Ranch,34.37,-99.75,,,,16775,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.91,-3.11,27.98,,,0,,Koch.2004
+MSU-7324,MSU-7324,Large,Herbivore,Bison,sp.,Bison,sp.,579255,MSU,Schulze Cave ,30.25,-99.87,(Level.C1),,,9680,midpoint from Koch 2004,Holocene,Post-Extinction,Survivor,,,,,-8.65,-1.85,25.9,,,0,,Koch.2004
+MSU-7391,MSU-7391,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,MSU,Schulze Cave ,30.25,-99.87,Level.C2,,,9310,,Holocene,Post-Extinction,Extinct,,,,,-10.99,-4.19,29.08,,,0,,Koch.2004
+MSU-uncat.,MSU-uncat.,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,MSU,Easely.Ranch,33.98,-99.85,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.58,-0.78,30.18,,,0,,Koch.2004
+no-number,no-number,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-11.52,-4.72,30.34,,,0,,Koch.2004
+SMNH-WACO-12,SMNH-WACO-12,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.58,-2.78,30.57,,,0,,Koch.2004
+SMNH-WACO-19,SMNH-WACO-19,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.13,-2.33,30.13,,,0,,Koch.2004
+SMNH-WACO-21,SMNH-WACO-21,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.97,-2.17,30.65,,,0,,Koch.2004
+SMNH-WACO-23,SMNH-WACO-23,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-11.38,-4.58,29.82,,,0,,Koch.2004
+SMNH-WACO-B,SMNH-WACO-B,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.55,-1.75,30.43,,,0,,Koch.2004
+SMNH-WACO-C,SMNH-WACO-C,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.25,-2.45,29.96,,,0,,Koch.2004
+SMNH-WACO-D,SMNH-WACO-D,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.9,-2.1,29.88,,,0,,Koch.2004
+SMNH-WACO-E,SMNH-WACO-E,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.88,-3.08,29.11,,,0,,Koch.2004
+SMNH-WACO-F,SMNH-WACO-F,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.08,-3.28,29.1,,,0,,Koch.2004
+SMNH-WACO-I,SMNH-WACO-I,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.06,-2.26,30.44,,,0,,Koch.2004
+SMNH-WACO-K,SMNH-WACO-K,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.47,-2.67,27.98,,,0,,Koch.2004
+SMNH-WACO-M,SMNH-WACO-M,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.3,-3.5,30,,,0,,Koch.2004
+SMNH-WACO-N,SMNH-WACO-N,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.81,-2.01,30.66,,,0,,Koch.2004
+SMNH-WACO-Q,SMNH-WACO-Q,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMNH,Waco Mammoth Site,,,,,,28000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.09,-3.29,29.25,,,0,,Koch.2004
+SMP-60124,SMP-60124,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-13.26,-6.46,28.69,,,0,,Koch.2004
+SMP-60130,SMP-60130,Large,Herbivore,Equus,midlandensis,Equus,sp.,400000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.73,-3.93,31.98,,,0,,Koch.2004
+SMP-60178,SMP-60178,Large,Herbivore,Bison,sp.,Bison,sp.,579255,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.86,-2.06,27.93,,,0,,Koch.2004
+SMP-60188,SMP-60188,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-14.24,-7.44,30.82,,,0,,Koch.2004
+SMP-60240,SMP-60240,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-11.76,-4.96,30.15,,,0,,Koch.2004
+SMP-60292,SMP-60292,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Coppell,32.95,-97,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-11.12,-4.32,29.91,,,0,,Koch.2004
+SMP-60345,SMP-60345,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9,-2.2,29.12,,,0,,Koch.2004
+SMP-60351,SMP-60351,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.09,-1.29,29.67,,,0,,Koch.2004
+SMP-60382ms,SMP-60382ms,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Clear Creek,33.25,-97,,,,28840,,Pleistocene,Pre-Extinction,Extinct,,,,,-12.68,-5.88,29.55,,,0,,Koch.2004
+SMP-60442,SMP-60442,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Coppell,32.95,-97,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-11.38,-4.58,30.57,,,0,,Koch.2004
+SMP-60531,SMP-60531,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Clear Creek,33.25,-97,,,,28840,,Pleistocene,Pre-Extinction,Extinct,,,,,-12.11,-5.31,30.37,,,0,,Koch.2004
+SMP-60608,SMP-60608,Large,Herbivore,Bison,sp.,Bison,sp.,579255,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.19,-3.39,26.24,,,0,,Koch.2004
+SMP-60670,SMP-60670,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Clear Creek,33.25,-97,,,,28840,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.2,-2.4,27.18,,,0,,Koch.2004
+SMP-60670,SMP-60670,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Clear Creek,33.25,-97,,,,28840,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.92,-1.12,27.81,,,0,,Koch.2004
+SMP-60731,SMP-60731,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Ben Franklin,33.37,-95.75,,,,10317.5,used mid-point age,Holocene,Pre-Extinction,Extinct,,,,,-13.11,-6.31,28.83,,,0,,Koch.2004
+SMP-60827,SMP-60827,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Clear Creek,33.25,-97,,,,28840,,Pleistocene,Pre-Extinction,Extinct,,,,,-13.89,-7.09,27.79,,,0,,Koch.2004
+SMP-60840,SMP-60840,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Clear Creek,33.25,-97,,,,28840,,Pleistocene,Pre-Extinction,Extinct,,,,,-11.54,-4.74,32.28,,,0,,Koch.2004
+SMP-60844,SMP-60844,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.02,-3.22,28.33,,,0,,Koch.2004
+SMP-60849,SMP-60849,Large,Herbivore,Bison,sp.,Bison,sp.,579255,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.08,-1.28,28.43,,,0,,Koch.2004
+SMP-60855,SMP-60855,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-11.73,-4.93,30.17,,,0,,Koch.2004
+SMP-61233,SMP-61233,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Ben Franklin,33.37,-95.75,,,,10317.5,used mid-point age,Holocene,Pre-Extinction,Extinct,,,,,-10.34,-3.54,29.96,,,0,,Koch.2004
+SMP-61236,SMP-61236,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Ben Franklin,33.37,-95.75,,,,10317.5,used mid-point age,Holocene,Pre-Extinction,Extinct,,,,,-10.31,-3.51,27.11,,,0,,Koch.2004
+SMP-61244,SMP-61244,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Ben Franklin,33.37,-95.75,,,,10317.5,used mid-point age,Holocene,Pre-Extinction,Extinct,,,,,-8.14,-1.34,29.41,,,0,,Koch.2004
+SMP-61245,SMP-61245,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Ben Franklin,33.37,-95.75,,,,10317.5,used mid-point age,Holocene,Pre-Extinction,Extinct,,,,,-12.85,-6.05,28.62,,,0,,Koch.2004
+SMP-61245,SMP-61245,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Ben Franklin,33.37,-95.75,,,,10317.5,used mid-point age,Holocene,Pre-Extinction,Extinct,,,,,-8.07,-1.27,29.49,,,0,,Koch.2004
+SMP-61246,SMP-61246,Large,Herbivore,Equus,sp.,Equus,sp.,400000,SMP,Ben Franklin,33.37,-95.75,,,,10317.5,used mid-point age,Holocene,Pre-Extinction,Extinct,,,,,-9.69,-2.89,31.59,,,0,,Koch.2004
+SMP-61893,SMP-61893,Large,Herbivore,Bison,bison,Bison,bison,579255,SMP,Keller Springs,,,,,,,,Holocene,Post-Extinction,Survivor,,,,,-6.64,0.16,26.7,,,0,,Koch.2004
+SMP-62287,SMP-62287,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.5,-1.7,29.71,,,0,,Koch.2004
+SMP-62357,SMP-62357,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.5,-2.7,28.22,,,0,,Koch.2004
+SMP-62358,SMP-62358,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.71,-3.91,28.52,,,0,,Koch.2004
+SMP-62359,SMP-62359,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.39,-3.59,28.52,,,0,,Koch.2004
+SMP-70153,SMP-70153,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.13,-2.33,29.06,,,0,,Koch.2004
+SMP-70161,SMP-70161,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,SMP,Moore.Pit,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.18,-3.38,27.6,,,0,,Koch.2004
+SMP-uncatb,SMP-uncatb,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-14,-7.2,23.92,,,0,,Koch.2004
+TMM-30907-10,30907-10,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Leo.Boatright.Pit,32.12,-96,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.57,-2.77,28.68,,,0,,Koch.2004
+TMM-30907-13,30907-13,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Leo.Boatright.Pit,32.12,-96,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.66,-1.86,28.72,,,0,,Koch.2004
+TMM-30907-29,30907-29,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Leo.Boatright.Pit,32.12,-96,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.81,-3.01,30.35,,,0,,Koch.2004
+TMM-30907-33,30907-33,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Leo.Boatright.Pit,32.12,-96,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.28,-0.48,29.49,,,0,,Koch.2004
+TMM-30907-40,30907-40,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Leo.Boatright.Pit,32.12,-96,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.12,-2.32,28.58,,,0,,Koch.2004
+TMM-30907-79,30907-79,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Leo.Boatright.Pit,32.12,-96,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-13.81,-7.01,26.73,,,0,,Koch.2004
+TMM-30967-1051A,30967-1051A,Large,Herbivore,Equus,fraternus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.14,-3.34,26.75,,,0,,Koch.2004
+TMM-30967-1051B,30967-1051B,Large,Herbivore,Equus,fraternus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.56,-2.76,26.97,,,0,,Koch.2004
+TMM-30967-1214,30967-1214,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.75,-0.95,29.87,,,0,,Koch.2004
+TMM-30967-148,30967-148,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.39,-2.59,29.97,,,0,,Koch.2004
+TMM-30967-1487,30967-1487,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.52,-0.72,28.97,,,0,,Koch.2004
+TMM-30967-1518,30967-1518,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.69,-0.89,30.27,,,0,,Koch.2004
+TMM-30967-1540,30967-1540,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.16,-3.36,31.93,,,0,,Koch.2004
+TMM-30967-1638,30967-1638,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.77,-1.97,30.12,,,0,,Koch.2004
+TMM-30967-1642,30967-1642,Large,Herbivore,Equus,complicatus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.58,-2.78,28.74,,,0,,Koch.2004
+TMM-30967-165,30967-165,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.44,-1.64,30.09,,,0,,Koch.2004
+TMM-30967-1662,30967-1662,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.63,-0.83,31.76,,,0,,Koch.2004
+TMM-30967-1724,30967-1724,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.9,-1.1,29.93,,,0,,Koch.2004
+TMM-30967-1787,30967-1787,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.9,-1.1,28.03,,,0,,Koch.2004
+TMM-30967-1818,30967-1818,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.05,-2.25,28.55,,,0,,Koch.2004
+TMM-30967-1870,30967-1870,Large,Herbivore,Equus,complicatus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.25,-3.45,30.89,,,0,,Koch.2004
+TMM-30967-2223,30967-2223,Large,Herbivore,Equus,fraternus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.41,-0.61,26.92,,,0,,Koch.2004
+TMM-30967-2225,30967-2225,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.24,-1.44,30.37,,,0,,Koch.2004
+TMM-30967-2226,30967-2226,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.64,-0.84,27.62,,,0,,Koch.2004
+TMM-30967-2229,30967-2229,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,MSU,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.05,-1.25,30.36,,,0,,Koch.2004
+TMM-30967-2230,30967-2230,Large,Herbivore,Equus,complicatus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.03,-1.23,31.31,,,0,,Koch.2004
+TMM-30967-241,30967-241,Large,Herbivore,Equus,complicatus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.49,-3.69,34.27,,,0,,Koch.2004
+TMM-30967-242,30967-242,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.09,-1.29,30.83,,,0,,Koch.2004
+TMM-30967-2455,30967-2455,Large,Herbivore,Equus,complicatus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.54,-0.74,29.65,,,0,,Koch.2004
+TMM-30967-2473,30967-2473,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.52,-0.72,29.36,,,0,,Koch.2004
+TMM-30967-2481,30967-2481,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-5.65,1.15,30.02,,,0,,Koch.2004
+TMM-30967-312,30967-312,Large,Herbivore,Equus,complicatus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.95,-2.15,29,,,0,,Koch.2004
+TMM-30967-36,30967-36,Large,Herbivore,Equus,fraternus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.78,-0.98,28.99,,,0,,Koch.2004
+TMM-30967-376A,30967-376A,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.17,-1.37,29.1,,,0,,Koch.2004
+TMM-30967-376B,30967-376B,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.49,-0.69,27.98,,,0,,Koch.2004
+TMM-30967-376C,30967-376C,Large,Herbivore,Equus,pacificus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.64,-0.84,29.83,,,0,,Koch.2004
+TMM-30967-379,30967-379,Large,Herbivore,Equus,complicatus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.8,-1,28.36,,,0,,Koch.2004
+TMM-30967-500,30967-500,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.15,-1.35,30.39,,,0,,Koch.2004
+TMM-30967-679,30967-679,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.63,-0.83,30.11,,,0,,Koch.2004
+TMM-30967-694,30967-694,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-7.52,-0.72,29.93,,,0,,Koch.2004
+TMM-30967-708,30967-708,Large,Herbivore,Equus,fraternus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.59,-1.79,28.43,,,0,,Koch.2004
+TMM-30967-930,30967-930,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-6.38,0.42,31.85,,,0,,Koch.2004
+TMM-30967-948,30967-948,Large,Herbivore,Equus,complicatus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.52,-2.72,28.27,,,0,,Koch.2004
+TMM-30967-974,30967-974,Large,Herbivore,Equus,fraternus,Equus,sp.,400000,TMM,Ingleside,27.87,-97.2,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.78,-3.98,28.28,,,0,,Koch.2004
+TMM-31030-27,31030-27,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Valley Farms,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-12.66,-5.86,28.28,,,0,,Koch.2004
+TMM-31030-28,31030-28,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Valley Farms,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-13.69,-6.89,31.07,,,0,,Koch.2004
+TMM-31030-2A,31030-2A,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Valley Farms,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-6.79,0.01,30.26,,,0,,Koch.2004
+TMM-31030-2B,31030-2B,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Valley Farms,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.13,-1.33,27.96,,,0,,Koch.2004
+TMM-31030-3,31030-3,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Valley Farms,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-14.36,-7.56,26.19,,,0,,Koch.2004
+TMM-31030-8,31030-8,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Valley Farms,,,,,,30000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.9,-3.1,28.04,,,0,,Koch.2004
+TMM-40450-585,40450-585,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Cave Without A Name,29.88,-98.62,,,,13000,,Pleistocene,Pre-Extinction,Extinct,,,,,-10.61,-3.81,28.02,,,0,,Koch.2004
+TMM-40722-1,40722-1,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Laubach Cave,30.6166,-97.6166,,,,19540,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-9.84,-3.04,30.22,,,0,,Koch.2004
+TMM-40806-37,40806-37,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Bonfire Shelter,29.82,-101.55,,,,10100,,Holocene,Post-Extinction,Survivor,,,,,-7.01,-0.21,28.53,,,0,,Koch.2004
+TMM-40806-433,40806-433,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Bonfire Shelter,29.82,-101.55,,,,10100,,Holocene,Post-Extinction,Extinct,,,,,-9.64,-2.84,29.5,,,0,,Koch.2004
+TMM-40806-496,40806-496,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Bonfire Shelter,29.82,-101.55,,,,10100,,Holocene,Post-Extinction,Survivor,,,,,-6.06,0.74,26.26,,,0,,Koch.2004
+TMM-43067-29,43067-29,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Congress Avenue,30.25,-97.75,,,,17220,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-11.5,-4.7,29.58,,,0,,Koch.2004
+TMM-43067-37,43067-37,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Congress Avenue,30.25,-97.75,,,,17220,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-7.78,-0.98,28.72,,,0,,Koch.2004
+TMM-43067-62,43067-62,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Congress Avenue,30.25,-97.75,,,,17220,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-10.68,-3.88,27.83,,,0,,Koch.2004
+TMM-908-2408,908-2408,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Kincaid Shelter,29.37,-99.47,,,,13000,,Pleistocene,Pre-Extinction,Extinct,,,,,-8.64,-1.84,30.07,,,0,,Koch.2004
+TMM-908-2422,908-2422,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Kincaid Shelter,29.37,-99.47,,,,13000,,Pleistocene,Pre-Extinction,Extinct,,,,,-12.24,-5.44,24.95,,,0,,Koch.2004
+TMM-908-2436,908-2436,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Kincaid Shelter,29.37,-99.47,,,,13000,,Pleistocene,Pre-Extinction,Extinct,,,,,-9.11,-2.31,31.02,,,0,,Koch.2004
+TMM-933-1006,933-1006,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-6.86,-0.06,29.87,,,0,,Koch.2004
+TMM-933-1013,933-1013,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-7.99,-1.19,30.4,,,0,,Koch.2004
+TMM-933-1284,933-1284,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-10.68,-3.88,28.49,,,0,,Koch.2004
+TMM-933-1309,933-1309,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.5,-1.7,28.14,,,0,,Koch.2004
+TMM-933-133,933-133,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-11.89,-5.09,29.93,,,0,,Koch.2004
+TMM-933-1505,933-1505,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-6.94,-0.14,30.12,,,0,,Koch.2004
+TMM-933-1506,933-1506,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.01,-1.21,29.17,,,0,,Koch.2004
+TMM-933-1507,933-1507,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-10.15,-3.35,29.32,,,0,,Koch.2004
+TMM-933-2014,933-2014,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-6.82,-0.02,30.01,,,0,,Koch.2004
+TMM-933-2015,933-2015,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.19,-1.39,28.91,,,0,,Koch.2004
+TMM-933-2022,933-2022,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-10.67,-3.87,30.21,,,0,,Koch.2004
+TMM-933-209A,933-209A,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-10.69,-3.89,28.39,,,0,,Koch.2004
+TMM-933-209B,933-209B,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-10.89,-4.09,28.32,,,0,,Koch.2004
+TMM-933-2198,933-2198,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.9,-2.1,30.98,,,0,,Koch.2004
+TMM-933-2243,933-2243,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-7.85,-1.05,29.19,,,0,,Koch.2004
+TMM-933-2676,933-2676,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.7,-1.9,30.11,,,0,,Koch.2004
+TMM-933-296,933-296,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.29,-1.49,30.03,,,0,,Koch.2004
+TMM-933-3002,933-3002,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-7.9,-1.1,29.4,,,0,,Koch.2004
+TMM-933-3285,933-3285,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-9.57,-2.77,28.51,,,0,,Koch.2004
+TMM-933-3390,933-3390,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-6.49,0.31,28.99,,,0,,Koch.2004
+TMM-933-3407,933-3407,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-10.33,-3.53,31.05,,,0,,Koch.2004
+TMM-933-3525,933-3525,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.78,-1.98,29.06,,,0,,Koch.2004
+TMM-933-358,933-358,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.16,-1.36,29.05,,,0,,Koch.2004
+TMM-933-928,933-928,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Friesenhahn Cave,29.62,-98.37,,,,18500,used mid-point age,Pleistocene,Pre-Extinction,Extinct,,,,,-8.89,-2.09,29.29,,,0,,Koch.2004
+TMM-937-126b,937-126b,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-15.44,-8.64,22.16,,,0,,Koch.2004
+TMM-937-254,937-254,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-11.94,-5.14,27.9,,,0,,Koch.2004
+TMM-937-46b,937-46b,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-15.47,-8.67,23.78,,,0,,Koch.2004
+TMM-937-738,937-738,Large,Herbivore,Equus,sp.,Equus,sp.,400000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-13.12,-6.32,26.19,,,0,,Koch.2004
+TMM-937-818,937-818,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-7.72,-0.92,27.83,,,0,,Koch.2004
+TMM-937-907,937-907,Large,Herbivore,Bison,sp.,Bison,sp.,579255,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-5.4,1.4,28.14,,,0,,Koch.2004
+TMM-937-E6,937-E6,Large,Herbivore,Mammuthus,sp.,Mammuthus,sp.,10800000,TMM,Blackwater Draw,34.23,-103.42,,,,15000,really rough estimate estimate since it is reported to be Post-LGM,Pleistocene,Pre-Extinction,Extinct,,,,,-7.06,-0.26,29.29,,,0,,Koch.2004
+unknown dark,,,NA,NA,,,,,TMM,NA,,,NA,,,,,,,,6,B12,0.538,NA,-11.7,,,0.3,6.6,21.9,,x
+unknown light,,,NA,NA,,,,,TMM,NA,,,NA,,,,,,,,6,B11,0.573,2.4,-24.6,,,9.1,26.1,2.9,,x
