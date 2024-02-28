@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DigtalZoom</key>
+		<real>1</real>
+		<key>ImageFilename</key>
+		<string>/Users/FBug/Dropbox/Hall's Cave/Sigmodon PROJECT/Measurement Pictures/Picture/Sigmodon Molars/20160722_171517469.png</string>
+		<key>Magnification</key>
+		<real>0.0</real>
+		<key>ProductID</key>
+		<integer>2160</integer>
+		<key>TextComment</key>
+		<string></string>
+		<key>TimeStamp</key>
+		<string>20160722_171517469</string>
+	</dict>
+</array>
+</plist>
